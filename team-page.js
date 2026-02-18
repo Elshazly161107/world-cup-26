@@ -49,7 +49,7 @@ modeBtn.addEventListener("click", function () {
 let title = document.querySelector("title");
 title.textContent = mainData.teamName.toUpperCase();
 let pageIcon = document.querySelector("link[rel='icon']");
-pageIcon.setAttribute("href", `/${mainData.teamLogo}`);
+pageIcon.setAttribute("href", `../../${mainData.teamLogo}`);
 
 // page content
 
@@ -101,7 +101,7 @@ for (let i = 0; i < navBtnsArr.length; i++) {
 //
 
 let headerImg = document.querySelector("header .container img");
-headerImg.setAttribute("src", `/${mainData.teamLogo}`);
+headerImg.setAttribute("src", `../../${mainData.teamLogo}`);
 let headerName = document.querySelector("header .container h1");
 headerName.textContent = mainData.teamName;
 

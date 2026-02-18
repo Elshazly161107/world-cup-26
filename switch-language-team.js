@@ -112,7 +112,7 @@ langBtn.addEventListener("click", function () {
         for (let d = 0; d < statsAll.length; d++) {
           trows += `
     <tr>
-      <td><span class="vs">${statsAll[d].vs}</span></td>
+      <td><span class="vs">${statsAll[d].vsAR}</span></td>
       <td><span>${statsAll[d].mp}</span></td>
       <td><span>${statsAll[d].g}</span></td>
       <td><span>${statsAll[d].a}</span></td>

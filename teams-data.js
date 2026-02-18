@@ -24,6 +24,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -32,6 +33,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -40,6 +42,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -62,6 +65,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -70,6 +74,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -78,6 +83,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -100,6 +106,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -108,6 +115,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -116,6 +124,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -141,6 +150,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -149,6 +159,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -157,6 +168,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -179,6 +191,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -187,6 +200,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -195,6 +209,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -217,6 +232,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -225,6 +241,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -233,6 +250,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -255,6 +273,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -263,6 +282,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -271,6 +291,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -293,6 +314,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -301,6 +323,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -309,6 +332,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -331,6 +355,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -339,6 +364,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -347,6 +373,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -369,6 +396,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -377,6 +405,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -385,6 +414,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -410,6 +440,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -418,6 +449,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -426,6 +458,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -448,6 +481,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -456,6 +490,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -464,6 +499,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -486,6 +522,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -494,6 +531,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -502,6 +540,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -524,6 +563,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -532,6 +572,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -540,6 +581,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -562,6 +604,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -570,6 +613,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -578,6 +622,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -600,6 +645,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -608,6 +654,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -616,6 +663,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -641,6 +689,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -649,6 +698,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -657,6 +707,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -679,6 +730,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -687,6 +739,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -695,6 +748,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -712,11 +766,12 @@ let teamsData = [
         playerPosAR: "مهاجم",
         playerPos: "forward",
         playerShortPos: "LW",
-        playerClubNameAR: "",
+        playerClubNameAR: "القادسية",
         playerClubName: "Al-Qadsiah",
-        playerClubLogo: "",
+        playerClubLogo: "media/CLUBS/SAUDI_LEAGUE/AL-QADISIAH.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -725,6 +780,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -733,6 +789,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -755,6 +812,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -763,6 +821,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -771,6 +830,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -793,6 +853,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -801,6 +862,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -809,6 +871,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -831,6 +894,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -839,6 +903,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -847,6 +912,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -869,6 +935,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -877,6 +944,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -885,6 +953,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -920,6 +989,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -928,6 +998,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -936,6 +1007,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -958,6 +1030,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -966,6 +1039,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -974,6 +1048,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -996,6 +1071,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -1004,6 +1080,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -1012,6 +1089,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -1037,6 +1115,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -1045,6 +1124,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -1053,6 +1133,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -1075,6 +1156,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -1083,6 +1165,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -1091,6 +1174,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -1113,6 +1197,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -1121,6 +1206,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -1129,6 +1215,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -1151,6 +1238,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -1159,6 +1247,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -1167,6 +1256,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -1189,6 +1279,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -1197,6 +1288,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -1205,6 +1297,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -1227,6 +1320,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -1235,6 +1329,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -1243,6 +1338,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -1265,6 +1361,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -1273,6 +1370,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -1281,6 +1379,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -1306,6 +1405,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -1314,6 +1414,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -1322,6 +1423,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -1344,6 +1446,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -1352,6 +1455,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -1360,6 +1464,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -1382,6 +1487,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -1390,6 +1496,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -1398,6 +1505,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -1420,6 +1528,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -1428,6 +1537,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -1436,6 +1546,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -1458,6 +1569,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -1466,6 +1578,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -1474,6 +1587,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -1496,6 +1610,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -1504,6 +1619,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -1512,6 +1628,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -1537,6 +1654,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -1545,6 +1663,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -1553,6 +1672,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -1575,6 +1695,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -1583,6 +1704,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -1591,6 +1713,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -1613,6 +1736,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -1621,6 +1745,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -1629,6 +1754,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -1651,6 +1777,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -1659,6 +1786,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -1667,6 +1795,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -1689,6 +1818,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -1697,6 +1827,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -1705,6 +1836,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -1727,6 +1859,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -1735,6 +1868,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -1743,6 +1877,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -1765,6 +1900,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -1773,6 +1909,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -1781,6 +1918,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -1816,6 +1954,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -1824,6 +1963,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -1832,6 +1972,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -1854,6 +1995,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -1862,6 +2004,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -1870,6 +2013,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -1892,6 +2036,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -1900,6 +2045,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -1908,6 +2054,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -1933,6 +2080,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -1941,6 +2089,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -1949,6 +2098,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -1971,6 +2121,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -1979,6 +2130,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -1987,6 +2139,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -2009,6 +2162,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -2017,6 +2171,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -2025,6 +2180,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -2047,6 +2203,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -2055,6 +2212,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -2063,6 +2221,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -2085,6 +2244,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -2093,6 +2253,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -2101,6 +2262,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -2123,6 +2285,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -2131,6 +2294,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -2139,6 +2303,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -2161,6 +2326,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -2169,6 +2335,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -2177,6 +2344,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -2202,6 +2370,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -2210,6 +2379,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -2218,6 +2388,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -2240,6 +2411,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -2248,6 +2420,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -2256,6 +2429,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -2278,6 +2452,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -2286,6 +2461,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -2294,6 +2470,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -2316,6 +2493,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -2324,6 +2502,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -2332,6 +2511,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -2354,6 +2534,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -2362,6 +2543,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -2370,6 +2552,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -2392,6 +2575,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -2400,6 +2584,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -2408,6 +2593,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -2430,6 +2616,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -2438,6 +2625,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -2446,6 +2634,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -2471,6 +2660,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -2479,6 +2669,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -2487,6 +2678,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -2509,6 +2701,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -2517,6 +2710,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -2525,6 +2719,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -2547,6 +2742,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -2555,6 +2751,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -2563,6 +2760,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -2585,6 +2783,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -2593,6 +2792,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -2601,6 +2801,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -2623,6 +2824,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -2631,6 +2833,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -2639,6 +2842,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -2661,6 +2865,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -2669,6 +2874,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -2677,6 +2883,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -2724,6 +2931,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -2732,6 +2940,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -2740,6 +2949,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -2762,6 +2972,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -2770,6 +2981,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -2778,6 +2990,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -2800,6 +3013,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -2808,6 +3022,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -2816,6 +3031,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -2841,6 +3057,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -2849,6 +3066,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -2857,6 +3075,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -2879,6 +3098,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -2887,6 +3107,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -2895,6 +3116,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -2917,6 +3139,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -2925,6 +3148,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -2933,6 +3157,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -2955,6 +3180,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -2963,6 +3189,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -2971,6 +3198,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -2993,6 +3221,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -3001,6 +3230,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -3009,6 +3239,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -3031,6 +3262,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -3039,6 +3271,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -3047,6 +3280,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -3069,6 +3303,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -3077,6 +3312,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -3085,6 +3321,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -3110,6 +3347,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -3118,6 +3356,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -3126,6 +3365,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -3148,6 +3388,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -3156,6 +3397,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -3164,6 +3406,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -3186,6 +3429,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -3194,6 +3438,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -3202,6 +3447,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -3224,6 +3470,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -3232,6 +3479,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -3240,6 +3488,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -3262,6 +3511,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -3270,6 +3520,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -3278,6 +3529,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -3300,6 +3552,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -3308,6 +3561,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -3316,6 +3570,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -3341,6 +3596,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -3349,6 +3605,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -3357,6 +3614,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -3379,6 +3637,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -3387,6 +3646,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -3395,6 +3655,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -3417,6 +3678,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -3425,6 +3687,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -3433,6 +3696,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -3455,6 +3719,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -3463,6 +3728,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -3471,6 +3737,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -3493,6 +3760,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -3501,6 +3769,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -3509,6 +3778,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -3531,6 +3801,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -3539,6 +3810,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -3547,6 +3819,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -3569,6 +3842,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -3577,6 +3851,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -3585,6 +3860,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -3620,6 +3896,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -3628,6 +3905,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -3636,6 +3914,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -3658,6 +3937,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -3666,6 +3946,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -3674,6 +3955,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -3696,6 +3978,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -3704,6 +3987,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -3712,6 +3996,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -3737,6 +4022,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -3745,6 +4031,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -3753,6 +4040,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -3775,6 +4063,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -3783,6 +4072,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -3791,6 +4081,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -3813,6 +4104,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -3821,6 +4113,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -3829,6 +4122,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -3851,6 +4145,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -3859,6 +4154,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -3867,6 +4163,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -3889,6 +4186,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -3897,6 +4195,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -3905,6 +4204,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -3927,6 +4227,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -3935,6 +4236,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -3943,6 +4245,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -3965,6 +4268,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -3973,6 +4277,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -3981,6 +4286,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -4006,6 +4312,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -4014,6 +4321,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -4022,6 +4330,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -4044,6 +4353,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -4052,6 +4362,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -4060,6 +4371,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -4082,6 +4394,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -4090,6 +4403,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -4098,6 +4412,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -4120,6 +4435,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -4128,6 +4444,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -4136,6 +4453,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -4158,6 +4476,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -4166,6 +4485,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -4174,6 +4494,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -4196,6 +4517,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -4204,6 +4526,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -4212,6 +4535,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -4237,6 +4561,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -4245,6 +4570,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -4253,6 +4579,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -4275,6 +4602,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -4283,6 +4611,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -4291,6 +4620,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -4313,6 +4643,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -4321,6 +4652,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -4329,6 +4661,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -4351,6 +4684,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -4359,6 +4693,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -4367,6 +4702,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -4389,6 +4725,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -4397,6 +4734,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -4405,6 +4743,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -4427,6 +4766,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -4435,6 +4775,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -4443,6 +4784,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -4465,6 +4807,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -4473,6 +4816,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -4481,6 +4825,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -4516,6 +4861,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -4524,6 +4870,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -4532,6 +4879,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -4554,6 +4902,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -4562,6 +4911,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -4570,6 +4920,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -4592,6 +4943,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -4600,6 +4952,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -4608,6 +4961,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -4633,6 +4987,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -4641,6 +4996,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -4649,6 +5005,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -4671,6 +5028,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -4679,6 +5037,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -4687,6 +5046,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -4709,6 +5069,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -4717,6 +5078,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -4725,6 +5087,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -4747,6 +5110,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -4755,6 +5119,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -4763,6 +5128,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -4785,6 +5151,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -4793,6 +5160,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -4801,6 +5169,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -4823,6 +5192,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -4831,6 +5201,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -4839,6 +5210,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -4861,6 +5233,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -4869,6 +5242,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -4877,6 +5251,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -4902,6 +5277,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -4910,6 +5286,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -4918,6 +5295,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -4940,6 +5318,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -4948,6 +5327,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -4956,6 +5336,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -4978,6 +5359,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -4986,6 +5368,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -4994,6 +5377,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -5016,6 +5400,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -5024,6 +5409,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -5032,6 +5418,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -5054,6 +5441,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -5062,6 +5450,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -5070,6 +5459,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -5092,6 +5482,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -5100,6 +5491,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -5108,6 +5500,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -5133,6 +5526,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -5141,6 +5535,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -5149,6 +5544,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -5171,6 +5567,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -5179,6 +5576,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -5187,6 +5585,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -5209,6 +5608,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -5217,6 +5617,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -5225,6 +5626,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -5247,6 +5649,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -5255,6 +5658,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -5263,6 +5667,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -5285,6 +5690,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -5293,6 +5699,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -5301,6 +5708,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -5323,6 +5731,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -5331,6 +5740,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -5339,6 +5749,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -5361,6 +5772,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -5369,6 +5781,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -5377,6 +5790,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -5424,6 +5838,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/ENGLISH_LEAGUE/Liverpool.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -5432,6 +5847,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -5440,6 +5856,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -5462,6 +5879,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -5470,6 +5888,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -5478,6 +5897,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -5500,6 +5920,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -5508,6 +5929,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -5516,6 +5938,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -5541,6 +5964,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -5549,6 +5973,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -5557,6 +5982,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -5579,6 +6005,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -5587,6 +6014,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -5595,6 +6023,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -5617,6 +6046,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/SPAIN_LEAGUE/Real-Madrid.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -5625,6 +6055,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -5633,6 +6064,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -5655,6 +6087,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -5663,6 +6096,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -5671,6 +6105,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -5693,6 +6128,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -5701,6 +6137,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -5709,6 +6146,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -5731,6 +6169,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -5739,6 +6178,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -5747,6 +6187,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -5769,6 +6210,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -5777,6 +6219,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -5785,6 +6228,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -5810,6 +6254,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -5818,6 +6263,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -5826,6 +6272,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -5848,6 +6295,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -5856,6 +6304,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -5864,6 +6313,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -5886,6 +6336,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -5894,6 +6345,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -5902,6 +6354,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -5924,6 +6377,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -5932,6 +6386,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -5940,6 +6395,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -5962,6 +6418,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -5970,6 +6427,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -5978,6 +6436,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -6000,6 +6459,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -6008,6 +6468,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -6016,6 +6477,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -6041,6 +6503,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/SPAIN_LEAGUE/Real-Madrid.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -6049,6 +6512,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -6057,6 +6521,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -6079,6 +6544,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/SPAIN_LEAGUE/Real-Madrid.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -6087,6 +6553,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -6095,6 +6562,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -6117,6 +6585,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/SPAIN_LEAGUE/Real-Madrid.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -6125,6 +6594,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -6133,6 +6603,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -6155,6 +6626,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -6163,6 +6635,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -6171,6 +6644,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -6193,6 +6667,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -6201,6 +6676,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -6209,6 +6685,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -6231,6 +6708,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -6239,6 +6717,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -6247,6 +6726,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -6269,6 +6749,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -6277,6 +6758,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -6285,6 +6767,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -6320,6 +6803,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/SAUDI_LEAGUE/AL-HLAL.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -6328,6 +6812,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -6336,6 +6821,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -6358,6 +6844,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -6366,6 +6853,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -6374,6 +6862,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -6396,6 +6885,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -6404,6 +6894,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -6412,6 +6903,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -6437,6 +6929,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -6445,6 +6938,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -6453,6 +6947,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -6475,6 +6970,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -6483,6 +6979,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -6491,6 +6988,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -6513,6 +7011,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -6521,6 +7020,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -6529,6 +7029,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -6551,6 +7052,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -6559,6 +7061,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -6567,6 +7070,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -6589,6 +7093,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -6597,6 +7102,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -6605,6 +7111,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -6627,6 +7134,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -6635,6 +7143,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -6643,6 +7152,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -6665,6 +7175,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -6673,6 +7184,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -6681,6 +7193,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -6706,6 +7219,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -6714,6 +7228,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -6722,6 +7237,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -6744,6 +7260,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -6752,6 +7269,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -6760,6 +7278,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -6782,6 +7301,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/SPAIN_LEAGUE/Real-Madrid.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -6790,6 +7310,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -6798,6 +7319,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -6820,6 +7342,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -6828,6 +7351,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -6836,6 +7360,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -6858,6 +7383,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -6866,6 +7392,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -6874,6 +7401,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -6896,6 +7424,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -6904,6 +7433,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -6912,6 +7442,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -6937,6 +7468,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -6945,6 +7477,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -6953,6 +7486,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -6975,6 +7509,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -6983,6 +7518,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -6991,6 +7527,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -7013,6 +7550,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -7021,6 +7559,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -7029,6 +7568,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -7051,6 +7591,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -7059,6 +7600,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -7067,6 +7609,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -7089,6 +7632,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -7097,6 +7641,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -7105,6 +7650,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -7127,6 +7673,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -7135,6 +7682,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -7143,6 +7691,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -7165,6 +7714,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -7173,6 +7723,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -7181,6 +7732,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -7216,6 +7768,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -7224,6 +7777,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -7232,6 +7786,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -7254,6 +7809,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -7262,6 +7818,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -7270,6 +7827,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -7292,6 +7850,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -7300,6 +7859,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -7308,6 +7868,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -7333,6 +7894,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -7341,6 +7903,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -7349,6 +7912,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -7371,6 +7935,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -7379,6 +7944,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -7387,6 +7953,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -7409,6 +7976,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -7417,6 +7985,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -7425,6 +7994,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -7447,6 +8017,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -7455,6 +8026,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -7463,6 +8035,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -7485,6 +8058,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -7493,6 +8067,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -7501,6 +8076,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -7523,6 +8099,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -7531,6 +8108,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -7539,6 +8117,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -7561,6 +8140,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -7569,6 +8149,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -7577,6 +8158,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -7602,6 +8184,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -7610,6 +8193,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -7618,6 +8202,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -7640,6 +8225,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -7648,6 +8234,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -7656,6 +8243,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -7678,6 +8266,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -7686,6 +8275,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -7694,6 +8284,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -7716,6 +8307,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -7724,6 +8316,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -7732,6 +8325,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -7754,6 +8348,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -7762,6 +8357,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -7770,6 +8366,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -7792,6 +8389,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -7800,6 +8398,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -7808,6 +8407,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -7833,6 +8433,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -7841,6 +8442,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -7849,6 +8451,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -7871,6 +8474,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -7879,6 +8483,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -7887,6 +8492,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -7909,6 +8515,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -7917,6 +8524,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -7925,6 +8533,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -7947,6 +8556,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -7955,6 +8565,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -7963,6 +8574,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -7985,6 +8597,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -7993,6 +8606,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -8001,6 +8615,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -8023,6 +8638,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -8031,6 +8647,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -8039,6 +8656,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -8061,6 +8679,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -8069,6 +8688,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -8077,6 +8697,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -8112,6 +8733,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -8120,6 +8742,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -8128,6 +8751,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -8150,6 +8774,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -8158,6 +8783,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -8166,6 +8792,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -8188,6 +8815,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -8196,6 +8824,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -8204,6 +8833,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -8229,6 +8859,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/ENGLISH_LEAGUE/Liverpool.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -8237,6 +8868,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -8245,6 +8877,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -8267,6 +8900,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -8275,6 +8909,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -8283,6 +8918,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -8305,6 +8941,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -8313,6 +8950,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -8321,6 +8959,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -8343,6 +8982,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -8351,6 +8991,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -8359,6 +9000,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -8381,6 +9023,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -8389,6 +9032,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -8397,6 +9041,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -8419,6 +9064,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -8427,6 +9073,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -8435,6 +9082,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -8457,6 +9105,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -8465,6 +9114,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -8473,6 +9123,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -8498,6 +9149,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -8506,6 +9158,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -8514,6 +9167,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -8536,6 +9190,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -8544,6 +9199,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -8552,6 +9208,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -8574,6 +9231,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -8582,6 +9240,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -8590,6 +9249,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -8612,6 +9272,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -8620,6 +9281,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -8628,6 +9290,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -8650,6 +9313,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -8658,6 +9322,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -8666,6 +9331,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -8688,6 +9354,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -8696,6 +9363,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -8704,6 +9372,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -8729,6 +9398,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -8737,6 +9407,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -8745,6 +9416,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -8767,6 +9439,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -8775,6 +9448,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -8783,6 +9457,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -8805,6 +9480,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -8813,6 +9489,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -8821,6 +9498,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -8843,6 +9521,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -8851,6 +9530,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -8859,6 +9539,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -8881,6 +9562,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -8889,6 +9571,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -8897,6 +9580,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -8933,6 +9617,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -8941,6 +9626,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -8949,6 +9635,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -8971,6 +9658,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -8979,6 +9667,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -8987,6 +9676,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -9009,6 +9699,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -9017,6 +9708,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -9025,6 +9717,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -9050,6 +9743,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -9058,6 +9752,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -9066,6 +9761,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -9088,6 +9784,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -9096,6 +9793,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -9104,6 +9802,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -9126,6 +9825,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -9134,6 +9834,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -9142,6 +9843,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -9164,6 +9866,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -9172,6 +9875,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -9180,6 +9884,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -9202,6 +9907,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -9210,6 +9916,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -9218,6 +9925,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -9240,6 +9948,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -9248,6 +9957,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -9256,6 +9966,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -9278,6 +9989,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -9286,6 +9998,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -9294,6 +10007,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -9319,6 +10033,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -9327,6 +10042,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -9335,6 +10051,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -9357,6 +10074,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -9365,6 +10083,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -9373,6 +10092,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -9395,6 +10115,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -9403,6 +10124,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -9411,6 +10133,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -9433,6 +10156,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -9441,6 +10165,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -9449,6 +10174,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -9471,6 +10197,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -9479,6 +10206,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -9487,6 +10215,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -9509,6 +10238,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -9517,6 +10247,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -9525,6 +10256,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -9550,6 +10282,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -9558,6 +10291,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -9566,6 +10300,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -9588,6 +10323,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -9596,6 +10332,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -9604,6 +10341,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -9626,6 +10364,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -9634,6 +10373,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -9642,6 +10382,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -9664,6 +10405,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -9672,6 +10414,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -9680,6 +10423,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -9702,6 +10446,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -9710,6 +10455,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -9718,6 +10464,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -9740,6 +10487,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -9748,6 +10496,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -9756,6 +10505,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -9778,6 +10528,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -9786,6 +10537,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -9794,6 +10546,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -9829,6 +10582,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -9837,6 +10591,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -9845,6 +10600,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -9867,6 +10623,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -9875,6 +10632,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -9883,6 +10641,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -9905,6 +10664,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -9913,6 +10673,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -9921,6 +10682,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -9946,6 +10708,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -9954,6 +10717,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -9962,6 +10726,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -9984,6 +10749,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -9992,6 +10758,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -10000,6 +10767,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -10022,6 +10790,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -10030,6 +10799,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -10038,6 +10808,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -10060,6 +10831,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -10068,6 +10840,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -10076,6 +10849,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -10098,6 +10872,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -10106,6 +10881,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -10114,6 +10890,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -10136,6 +10913,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -10144,6 +10922,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -10152,6 +10931,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -10174,6 +10954,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -10182,6 +10963,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -10190,6 +10972,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -10215,6 +10998,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -10223,6 +11007,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -10231,6 +11016,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -10253,6 +11039,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -10261,6 +11048,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -10269,6 +11057,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -10291,6 +11080,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -10299,6 +11089,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -10307,6 +11098,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -10329,6 +11121,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -10337,6 +11130,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -10345,6 +11139,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -10367,6 +11162,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -10375,6 +11171,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -10383,6 +11180,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -10405,6 +11203,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -10413,6 +11212,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -10421,6 +11221,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -10446,6 +11247,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -10454,6 +11256,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -10462,6 +11265,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -10484,6 +11288,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -10492,6 +11297,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -10500,6 +11306,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -10522,6 +11329,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -10530,6 +11338,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -10538,6 +11347,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -10560,6 +11370,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -10568,6 +11379,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -10576,6 +11388,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -10598,6 +11411,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -10606,6 +11420,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -10614,6 +11429,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -10636,6 +11452,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -10644,6 +11461,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -10652,6 +11470,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -10674,6 +11493,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -10682,6 +11502,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -10690,6 +11511,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -10725,6 +11547,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -10733,6 +11556,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -10741,6 +11565,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -10763,6 +11588,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -10771,6 +11597,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -10779,6 +11606,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -10801,6 +11629,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -10809,6 +11638,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -10817,6 +11647,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -10842,6 +11673,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -10850,6 +11682,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -10858,6 +11691,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -10880,6 +11714,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -10888,6 +11723,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -10896,6 +11732,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -10918,6 +11755,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -10926,6 +11764,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -10934,6 +11773,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -10956,6 +11796,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -10964,6 +11805,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -10972,6 +11814,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -10994,6 +11837,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -11002,6 +11846,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -11010,6 +11855,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -11032,6 +11878,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -11040,6 +11887,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -11048,6 +11896,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -11070,6 +11919,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -11078,6 +11928,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -11086,6 +11937,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -11111,6 +11963,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -11119,6 +11972,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -11127,6 +11981,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -11149,6 +12004,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -11157,6 +12013,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -11165,6 +12022,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -11187,6 +12045,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -11195,6 +12054,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -11203,6 +12063,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -11225,6 +12086,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -11233,6 +12095,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -11241,6 +12104,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -11263,6 +12127,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -11271,6 +12136,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -11279,6 +12145,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -11301,6 +12168,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -11309,6 +12177,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -11317,6 +12186,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -11342,6 +12212,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -11350,6 +12221,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -11358,6 +12230,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -11380,6 +12253,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -11388,6 +12262,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -11396,6 +12271,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -11418,6 +12294,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -11426,6 +12303,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -11434,6 +12312,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -11456,6 +12335,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -11464,6 +12344,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -11472,6 +12353,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -11494,6 +12376,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -11502,6 +12385,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -11510,6 +12394,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -11532,6 +12417,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -11540,6 +12426,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -11548,6 +12435,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -11570,6 +12458,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -11578,6 +12467,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -11586,6 +12476,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -11633,6 +12524,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -11641,6 +12533,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -11649,6 +12542,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -11671,6 +12565,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -11679,6 +12574,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -11687,6 +12583,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -11709,6 +12606,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -11717,6 +12615,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -11725,6 +12624,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -11750,6 +12650,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/SPAIN_LEAGUE/Real-Madrid.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -11758,6 +12659,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -11766,6 +12668,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -11788,6 +12691,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -11796,6 +12700,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -11804,6 +12709,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -11826,6 +12732,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -11834,6 +12741,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -11842,6 +12750,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -11864,6 +12773,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -11872,6 +12782,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -11880,6 +12791,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -11902,6 +12814,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -11910,6 +12823,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -11918,6 +12832,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -11940,6 +12855,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -11948,6 +12864,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -11956,6 +12873,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -11978,6 +12896,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -11986,6 +12905,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -11994,6 +12914,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -12019,6 +12940,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -12027,6 +12949,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -12035,6 +12958,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -12057,6 +12981,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -12065,6 +12990,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -12073,6 +12999,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -12095,6 +13022,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -12103,6 +13031,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -12111,6 +13040,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -12133,6 +13063,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -12141,6 +13072,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -12149,6 +13081,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -12171,6 +13104,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -12179,6 +13113,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -12187,6 +13122,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -12209,6 +13145,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -12217,6 +13154,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -12225,6 +13163,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -12250,6 +13189,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -12258,6 +13198,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -12266,6 +13207,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -12288,6 +13230,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -12296,6 +13239,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -12304,6 +13248,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -12326,6 +13271,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -12334,6 +13280,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -12342,6 +13289,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -12364,6 +13312,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -12372,6 +13321,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -12380,6 +13330,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -12402,6 +13353,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -12410,6 +13362,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -12418,6 +13371,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -12440,6 +13394,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -12448,6 +13403,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -12456,6 +13412,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -12478,6 +13435,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -12486,6 +13444,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -12494,6 +13453,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -12529,6 +13489,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -12537,6 +13498,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -12545,6 +13507,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -12567,6 +13530,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -12575,6 +13539,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -12583,6 +13548,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -12605,6 +13571,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -12613,6 +13580,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -12621,6 +13589,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -12646,6 +13615,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -12654,6 +13624,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -12662,6 +13633,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -12684,6 +13656,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -12692,6 +13665,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -12700,6 +13674,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -12722,6 +13697,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -12730,6 +13706,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -12738,6 +13715,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -12760,6 +13738,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -12768,6 +13747,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -12776,6 +13756,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -12798,6 +13779,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -12806,6 +13788,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -12814,6 +13797,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -12836,6 +13820,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -12844,6 +13829,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -12852,6 +13838,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -12874,6 +13861,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -12882,6 +13870,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -12890,6 +13879,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -12915,6 +13905,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -12923,6 +13914,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -12931,6 +13923,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -12953,6 +13946,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -12961,6 +13955,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -12969,6 +13964,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -12991,6 +13987,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -12999,6 +13996,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -13007,6 +14005,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -13029,6 +14028,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -13037,6 +14037,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -13045,6 +14046,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -13067,6 +14069,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -13075,6 +14078,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -13083,6 +14087,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -13105,6 +14110,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -13113,6 +14119,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -13121,6 +14128,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -13146,6 +14154,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -13154,6 +14163,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -13162,6 +14172,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -13184,6 +14195,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -13192,6 +14204,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -13200,6 +14213,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -13222,6 +14236,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -13230,6 +14245,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -13238,6 +14254,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -13260,6 +14277,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -13268,6 +14286,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -13276,6 +14295,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -13298,6 +14318,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -13306,6 +14327,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -13314,6 +14336,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -13336,6 +14359,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -13344,6 +14368,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -13352,6 +14377,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -13374,6 +14400,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -13382,6 +14409,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -13390,6 +14418,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -13425,6 +14454,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -13433,6 +14463,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -13441,6 +14472,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -13463,6 +14495,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -13471,6 +14504,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -13479,6 +14513,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -13501,6 +14536,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -13509,6 +14545,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -13517,6 +14554,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -13542,6 +14580,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -13550,6 +14589,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -13558,6 +14598,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -13580,6 +14621,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -13588,6 +14630,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -13596,6 +14639,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -13618,6 +14662,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -13626,6 +14671,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -13634,6 +14680,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -13656,6 +14703,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -13664,6 +14712,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -13672,6 +14721,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -13694,6 +14744,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -13702,6 +14753,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -13710,6 +14762,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -13732,6 +14785,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -13740,6 +14794,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -13748,6 +14803,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -13770,6 +14826,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -13778,6 +14835,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -13786,6 +14844,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -13812,6 +14871,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -13820,6 +14880,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -13828,6 +14889,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -13850,6 +14912,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -13858,6 +14921,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -13866,6 +14930,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -13888,6 +14953,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -13896,6 +14962,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -13904,6 +14971,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -13926,6 +14994,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -13934,6 +15003,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -13942,6 +15012,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -13964,6 +15035,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -13972,6 +15044,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -13980,6 +15053,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -14002,6 +15076,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -14010,6 +15085,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -14018,6 +15094,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -14043,6 +15120,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -14051,6 +15129,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -14059,6 +15138,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -14081,6 +15161,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -14089,6 +15170,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -14097,6 +15179,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -14119,6 +15202,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -14127,6 +15211,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -14135,6 +15220,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -14157,6 +15243,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -14165,6 +15252,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -14173,6 +15261,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -14195,6 +15284,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -14203,6 +15293,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -14211,6 +15302,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -14233,6 +15325,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -14241,6 +15334,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -14249,6 +15343,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -14271,6 +15366,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -14279,6 +15375,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -14287,6 +15384,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -14322,6 +15420,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -14330,6 +15429,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -14338,6 +15438,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -14360,6 +15461,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -14368,6 +15470,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -14376,6 +15479,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -14398,6 +15502,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -14406,6 +15511,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -14414,6 +15520,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -14439,6 +15546,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -14447,6 +15555,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -14455,6 +15564,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -14477,6 +15587,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -14485,6 +15596,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -14493,6 +15605,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -14515,6 +15628,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -14523,6 +15637,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -14531,6 +15646,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -14553,6 +15669,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -14561,6 +15678,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -14569,6 +15687,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -14591,6 +15710,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -14599,6 +15719,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -14607,6 +15728,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -14629,6 +15751,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -14637,6 +15760,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -14645,6 +15769,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -14662,11 +15787,12 @@ let teamsData = [
         playerPosAR: "مدافع",
         playerPos: "defender",
         playerShortPos: "LB",
-        playerClubNameAR: "",
-        playerClubName: "Lens",
+        playerClubNameAR: "لانس الفرنسي",
+        playerClubName: "lens",
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -14675,6 +15801,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -14683,6 +15810,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -14708,6 +15836,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -14716,6 +15845,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -14724,6 +15854,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -14746,6 +15877,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -14754,6 +15886,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -14762,6 +15895,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -14784,6 +15918,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -14792,6 +15927,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -14800,6 +15936,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -14822,6 +15959,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -14830,6 +15968,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -14838,6 +15977,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -14860,6 +16000,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -14868,6 +16009,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -14876,6 +16018,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -14898,6 +16041,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -14906,6 +16050,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -14914,6 +16059,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -14939,6 +16085,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -14947,6 +16094,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -14955,6 +16103,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -14977,6 +16126,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -14985,6 +16135,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -14993,6 +16144,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -15015,6 +16167,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -15023,6 +16176,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -15031,6 +16185,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -15053,6 +16208,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -15061,6 +16217,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -15069,6 +16226,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -15091,6 +16249,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -15099,6 +16258,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -15107,6 +16267,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -15129,6 +16290,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -15137,6 +16299,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -15145,6 +16308,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -15167,6 +16331,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -15175,6 +16340,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -15183,6 +16349,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -15219,6 +16386,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -15227,6 +16395,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -15235,6 +16404,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -15257,6 +16427,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -15265,6 +16436,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -15273,6 +16445,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -15295,6 +16468,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -15303,6 +16477,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -15311,6 +16486,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -15336,6 +16512,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/ENGLISH_LEAGUE/Liverpool.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -15344,6 +16521,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -15352,6 +16530,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -15374,6 +16553,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -15382,6 +16562,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -15390,6 +16571,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -15412,6 +16594,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -15420,6 +16603,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -15428,6 +16612,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -15450,6 +16635,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -15458,6 +16644,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -15466,6 +16653,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -15488,6 +16676,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -15496,6 +16685,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -15504,6 +16694,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -15526,6 +16717,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -15534,6 +16726,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -15542,6 +16735,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -15564,6 +16758,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -15572,6 +16767,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -15580,6 +16776,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -15605,6 +16802,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -15613,6 +16811,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -15621,6 +16820,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -15643,6 +16843,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -15651,6 +16852,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -15659,6 +16861,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -15681,6 +16884,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -15689,6 +16893,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -15697,6 +16902,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -15719,6 +16925,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -15727,6 +16934,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -15735,6 +16943,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -15757,6 +16966,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/ENGLISH_LEAGUE/Liverpool.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -15765,6 +16975,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -15773,6 +16984,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -15795,6 +17007,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -15803,6 +17016,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -15811,6 +17025,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -15836,6 +17051,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/ENGLISH_LEAGUE/Liverpool.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -15844,6 +17060,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -15852,6 +17069,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -15874,6 +17092,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -15882,6 +17101,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -15890,6 +17110,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -15912,6 +17133,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -15920,6 +17142,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -15928,6 +17151,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -15962,6 +17186,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -15970,6 +17195,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -15978,6 +17204,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -16000,6 +17227,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -16008,6 +17236,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -16016,6 +17245,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -16038,6 +17268,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -16046,6 +17277,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -16054,6 +17286,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -16089,6 +17322,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -16097,6 +17331,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -16105,6 +17340,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -16127,6 +17363,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -16135,6 +17372,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -16143,6 +17381,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -16165,6 +17404,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -16173,6 +17413,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -16181,6 +17422,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -16206,6 +17448,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -16214,6 +17457,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -16222,6 +17466,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -16244,6 +17489,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -16252,6 +17498,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -16260,6 +17507,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -16282,6 +17530,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -16290,6 +17539,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -16298,6 +17548,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -16320,6 +17571,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -16328,6 +17580,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -16336,6 +17589,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -16358,6 +17612,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -16366,6 +17621,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -16374,6 +17630,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -16396,6 +17653,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -16404,6 +17662,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -16412,6 +17671,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -16434,6 +17694,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -16442,6 +17703,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -16450,6 +17712,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -16475,6 +17738,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/ENGLISH_LEAGUE/Liverpool.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -16483,6 +17747,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -16491,6 +17756,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -16513,6 +17779,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -16521,6 +17788,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -16529,6 +17797,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -16551,6 +17820,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -16559,6 +17829,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -16567,6 +17838,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -16589,6 +17861,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -16597,6 +17870,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -16605,6 +17879,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -16627,6 +17902,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -16635,6 +17911,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -16643,6 +17920,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -16665,6 +17943,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -16673,6 +17952,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -16681,6 +17961,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -16706,6 +17987,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -16714,6 +17996,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -16722,6 +18005,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -16744,6 +18028,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -16752,6 +18037,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -16760,6 +18046,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -16782,6 +18069,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -16790,6 +18078,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -16798,6 +18087,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -16820,6 +18110,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -16828,6 +18119,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -16836,6 +18128,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -16858,6 +18151,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -16866,6 +18160,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -16874,6 +18169,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -16896,6 +18192,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -16904,6 +18201,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -16912,6 +18210,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -16934,6 +18233,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -16942,6 +18242,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -16950,6 +18251,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -16985,6 +18287,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -16993,6 +18296,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -17001,6 +18305,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -17023,6 +18328,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -17031,6 +18337,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -17039,6 +18346,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -17061,6 +18369,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -17069,6 +18378,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -17077,6 +18387,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -17102,6 +18413,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -17110,6 +18422,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -17118,6 +18431,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -17140,6 +18454,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -17148,6 +18463,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -17156,6 +18472,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -17178,6 +18495,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -17186,6 +18504,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -17194,6 +18513,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -17216,6 +18536,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -17224,6 +18545,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -17232,6 +18554,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -17254,6 +18577,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -17262,6 +18586,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -17270,6 +18595,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -17292,6 +18618,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -17300,6 +18627,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -17308,6 +18636,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -17330,6 +18659,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -17338,6 +18668,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -17346,6 +18677,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -17371,6 +18703,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -17379,6 +18712,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -17387,6 +18721,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -17409,6 +18744,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -17417,6 +18753,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -17425,6 +18762,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -17447,6 +18785,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -17455,6 +18794,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -17463,6 +18803,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -17485,6 +18826,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -17493,6 +18835,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -17501,6 +18844,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -17523,6 +18867,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -17531,6 +18876,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -17539,6 +18885,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -17561,6 +18908,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -17569,6 +18917,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -17577,6 +18926,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -17602,6 +18952,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -17610,6 +18961,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -17618,6 +18970,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -17640,6 +18993,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -17648,6 +19002,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -17656,6 +19011,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -17678,6 +19034,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -17686,6 +19043,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -17694,6 +19052,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -17716,6 +19075,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -17724,6 +19084,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -17732,6 +19093,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -17754,6 +19116,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -17762,6 +19125,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -17770,6 +19134,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -17792,6 +19157,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -17800,6 +19166,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -17808,6 +19175,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -17830,6 +19198,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -17838,6 +19207,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -17846,6 +19216,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -17893,6 +19264,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/SPAIN_LEAGUE/Real-Madrid.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -17901,6 +19273,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -17909,6 +19282,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -17926,11 +19300,12 @@ let teamsData = [
         playerPosAR: "حارس مرمى",
         playerPos: "goalkeeper",
         playerShortPos: "GK",
-        playerClubNameAR: "",
+        playerClubNameAR: "القادسية",
         playerClubName: "Al-Qadsiah",
-        playerClubLogo: "",
+        playerClubLogo: "media/CLUBS/SAUDI_LEAGUE/AL-QADISIAH.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -17939,6 +19314,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -17947,6 +19323,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -17969,6 +19346,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -17977,6 +19355,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -17985,6 +19364,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -18010,6 +19390,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -18018,6 +19399,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -18026,6 +19408,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -18048,6 +19431,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -18056,6 +19440,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -18064,6 +19449,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -18086,6 +19472,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -18094,6 +19481,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -18102,6 +19490,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -18124,6 +19513,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -18132,6 +19522,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -18140,6 +19531,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -18162,6 +19554,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -18170,6 +19563,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -18178,6 +19572,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -18200,6 +19595,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -18208,6 +19604,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -18216,6 +19613,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -18238,6 +19636,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -18246,6 +19645,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -18254,6 +19654,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -18279,6 +19680,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -18287,6 +19689,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -18295,6 +19698,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -18317,6 +19721,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -18325,6 +19730,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -18333,6 +19739,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -18355,6 +19762,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -18363,6 +19771,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -18371,6 +19780,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -18393,6 +19803,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -18401,6 +19812,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -18409,6 +19821,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -18431,6 +19844,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -18439,6 +19853,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -18447,6 +19862,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -18469,6 +19885,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -18477,6 +19894,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -18485,6 +19903,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -18510,6 +19929,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -18518,6 +19938,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -18526,6 +19947,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -18548,6 +19970,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -18556,6 +19979,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -18564,6 +19988,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -18586,6 +20011,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -18594,6 +20020,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -18602,6 +20029,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -18624,6 +20052,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -18632,6 +20061,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -18640,6 +20070,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -18662,6 +20093,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -18670,6 +20102,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -18678,6 +20111,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -18700,6 +20134,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -18708,6 +20143,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -18716,6 +20152,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -18738,6 +20175,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -18746,6 +20184,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -18754,6 +20193,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -18790,6 +20230,7 @@ let teamsData = [
         playerImg: "media/PLAYERS/EGY/ELSHINAWY.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "belgium",
             mp: 1,
             g: 1,
@@ -18798,6 +20239,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "new zeeland",
             mp: 45,
             g: 2,
@@ -18806,6 +20248,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "ir iran",
             mp: 0,
             g: 0,
@@ -18829,6 +20272,7 @@ let teamsData = [
         playerImg: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "belgium",
             mp: 0,
             g: 0,
@@ -18837,6 +20281,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "new zeeland",
             mp: 80,
             g: 0,
@@ -18845,6 +20290,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "ir iran",
             mp: 23,
             g: 0,
@@ -18868,6 +20314,7 @@ let teamsData = [
         playerImg: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "belgium",
             mp: 0,
             g: 0,
@@ -18876,6 +20323,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "new zeeland",
             mp: 0,
             g: 0,
@@ -18884,6 +20332,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "ir iran",
             mp: 0,
             g: 0,
@@ -18910,6 +20359,7 @@ let teamsData = [
         playerImg: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "belgium",
             mp: 0,
             g: 0,
@@ -18918,6 +20368,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "new zeeland",
             mp: 0,
             g: 0,
@@ -18926,6 +20377,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "ir iran",
             mp: 0,
             g: 0,
@@ -18949,6 +20401,7 @@ let teamsData = [
         playerImg: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "belgium",
             mp: 0,
             g: 0,
@@ -18957,6 +20410,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "new zeeland",
             mp: 0,
             g: 0,
@@ -18965,6 +20419,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "ir iran",
             mp: 0,
             g: 0,
@@ -18988,6 +20443,7 @@ let teamsData = [
         playerImg: "media/PLAYERS/EGY/RAMI.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "belgium",
             mp: 0,
             g: 0,
@@ -18996,6 +20452,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "new zeeland",
             mp: 0,
             g: 0,
@@ -19004,6 +20461,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "ir iran",
             mp: 0,
             g: 0,
@@ -19027,6 +20485,7 @@ let teamsData = [
         playerImg: "media/PLAYERS/EGY/HANI.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "belgium",
             mp: 0,
             g: 0,
@@ -19035,6 +20494,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "new zeeland",
             mp: 0,
             g: 0,
@@ -19043,6 +20503,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "ir iran",
             mp: 0,
             g: 0,
@@ -19066,6 +20527,7 @@ let teamsData = [
         playerImg: "media/PLAYERS/EGY/M_HAMDY.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "belgium",
             mp: 0,
             g: 0,
@@ -19074,6 +20536,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "new zeeland",
             mp: 0,
             g: 0,
@@ -19082,6 +20545,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "ir iran",
             mp: 0,
             g: 0,
@@ -19105,6 +20569,7 @@ let teamsData = [
         playerImg: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "belgium",
             mp: 0,
             g: 0,
@@ -19113,6 +20578,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "new zeeland",
             mp: 0,
             g: 0,
@@ -19121,6 +20587,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "ir iran",
             mp: 0,
             g: 0,
@@ -19144,6 +20611,7 @@ let teamsData = [
         playerImg: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "belgium",
             mp: 0,
             g: 0,
@@ -19152,6 +20620,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "new zeeland",
             mp: 0,
             g: 0,
@@ -19160,6 +20629,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "ir iran",
             mp: 0,
             g: 0,
@@ -19186,6 +20656,7 @@ let teamsData = [
         playerImg: "media/PLAYERS/EGY/HAMDY_FATHY.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "belgium",
             mp: 0,
             g: 0,
@@ -19194,6 +20665,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "new zeeland",
             mp: 0,
             g: 0,
@@ -19202,6 +20674,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "ir iran",
             mp: 0,
             g: 0,
@@ -19225,6 +20698,7 @@ let teamsData = [
         playerImg: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "belgium",
             mp: 0,
             g: 0,
@@ -19233,6 +20707,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "new zeeland",
             mp: 0,
             g: 0,
@@ -19241,6 +20716,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "ir iran",
             mp: 0,
             g: 0,
@@ -19264,6 +20740,7 @@ let teamsData = [
         playerImg: "media/PLAYERS/EGY/IMAM.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "belgium",
             mp: 0,
             g: 0,
@@ -19272,6 +20749,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "new zeeland",
             mp: 0,
             g: 0,
@@ -19280,6 +20758,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "ir iran",
             mp: 0,
             g: 0,
@@ -19303,6 +20782,7 @@ let teamsData = [
         playerImg: "media/PLAYERS/EGY/ZEZO.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "belgium",
             mp: 0,
             g: 0,
@@ -19311,6 +20791,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "new zeeland",
             mp: 0,
             g: 0,
@@ -19319,6 +20800,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "ir iran",
             mp: 0,
             g: 0,
@@ -19342,6 +20824,7 @@ let teamsData = [
         playerImg: "media/PLAYERS/EGY/TREZEGET.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "belgium",
             mp: 0,
             g: 0,
@@ -19350,6 +20833,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "new zeeland",
             mp: 0,
             g: 0,
@@ -19358,6 +20842,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "ir iran",
             mp: 0,
             g: 0,
@@ -19381,6 +20866,7 @@ let teamsData = [
         playerImg: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "belgium",
             mp: 0,
             g: 0,
@@ -19389,6 +20875,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "new zeeland",
             mp: 0,
             g: 0,
@@ -19397,6 +20884,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "ir iran",
             mp: 0,
             g: 0,
@@ -19423,6 +20911,7 @@ let teamsData = [
         playerImg: "media/PLAYERS/EGY/SALAH.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "belgium",
             mp: 0,
             g: 0,
@@ -19431,6 +20920,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "new zeeland",
             mp: 0,
             g: 0,
@@ -19439,6 +20929,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "ir iran",
             mp: 0,
             g: 0,
@@ -19462,6 +20953,7 @@ let teamsData = [
         playerImg: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "belgium",
             mp: 0,
             g: 0,
@@ -19470,6 +20962,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "new zeeland",
             mp: 0,
             g: 0,
@@ -19478,6 +20971,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "ir iran",
             mp: 0,
             g: 0,
@@ -19501,6 +20995,7 @@ let teamsData = [
         playerImg: "media/PLAYERS/EGY/MARMOUSH.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "belgium",
             mp: 0,
             g: 0,
@@ -19509,6 +21004,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "new zeeland",
             mp: 0,
             g: 0,
@@ -19517,6 +21013,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "ir iran",
             mp: 0,
             g: 0,
@@ -19540,6 +21037,7 @@ let teamsData = [
         playerImg: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "belgium",
             mp: 0,
             g: 0,
@@ -19548,6 +21046,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "new zeeland",
             mp: 0,
             g: 0,
@@ -19556,6 +21055,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "ir iran",
             mp: 0,
             g: 0,
@@ -19579,6 +21079,7 @@ let teamsData = [
         playerImg: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "belgium",
             mp: 0,
             g: 0,
@@ -19587,6 +21088,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "new zeeland",
             mp: 0,
             g: 0,
@@ -19595,6 +21097,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "ir iran",
             mp: 0,
             g: 0,
@@ -19618,6 +21121,7 @@ let teamsData = [
         playerImg: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "belgium",
             mp: 0,
             g: 0,
@@ -19626,6 +21130,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "new zeeland",
             mp: 0,
             g: 0,
@@ -19634,6 +21139,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "ir iran",
             mp: 0,
             g: 0,
@@ -19657,6 +21163,7 @@ let teamsData = [
         playerImg: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "belgium",
             mp: 0,
             g: 0,
@@ -19665,6 +21172,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "new zeeland",
             mp: 0,
             g: 0,
@@ -19673,6 +21181,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "ir iran",
             mp: 0,
             g: 0,
@@ -19708,6 +21217,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -19716,6 +21226,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -19724,6 +21235,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -19746,6 +21258,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -19754,6 +21267,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -19762,6 +21276,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -19784,6 +21299,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -19792,6 +21308,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -19800,6 +21317,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -19825,6 +21343,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -19833,6 +21352,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -19841,6 +21361,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -19863,6 +21384,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -19871,6 +21393,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -19879,6 +21402,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -19901,6 +21425,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -19909,6 +21434,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -19917,6 +21443,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -19939,6 +21466,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -19947,6 +21475,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -19955,6 +21484,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -19977,6 +21507,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -19985,6 +21516,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -19993,6 +21525,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -20015,6 +21548,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -20023,6 +21557,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -20031,6 +21566,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -20053,6 +21589,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -20061,6 +21598,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -20069,6 +21607,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -20094,6 +21633,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -20102,6 +21642,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -20110,6 +21651,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -20132,6 +21674,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -20140,6 +21683,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -20148,6 +21692,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -20170,6 +21715,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -20178,6 +21724,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -20186,6 +21733,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -20208,6 +21756,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -20216,6 +21765,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -20224,6 +21774,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -20246,6 +21797,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -20254,6 +21806,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -20262,6 +21815,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -20284,6 +21838,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -20292,6 +21847,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -20300,6 +21856,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -20325,6 +21882,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -20333,6 +21891,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -20341,6 +21900,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -20363,6 +21923,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -20371,6 +21932,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -20379,6 +21941,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -20401,6 +21964,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -20409,6 +21973,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -20417,6 +21982,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -20439,6 +22005,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -20447,6 +22014,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -20455,6 +22023,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -20477,6 +22046,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -20485,6 +22055,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -20493,6 +22064,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -20515,6 +22087,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -20523,6 +22096,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -20531,6 +22105,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -20553,6 +22128,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -20561,6 +22137,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -20569,6 +22146,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -20604,6 +22182,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -20612,6 +22191,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -20620,6 +22200,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -20642,6 +22223,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -20650,6 +22232,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -20658,6 +22241,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -20680,6 +22264,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -20688,6 +22273,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -20696,6 +22282,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -20721,6 +22308,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -20729,6 +22317,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -20737,6 +22326,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -20759,6 +22349,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -20767,6 +22358,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -20775,6 +22367,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -20797,6 +22390,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -20805,6 +22399,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -20813,6 +22408,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -20835,6 +22431,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -20843,6 +22440,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -20851,6 +22449,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -20873,6 +22472,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -20881,6 +22481,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -20889,6 +22490,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -20911,6 +22513,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -20919,6 +22522,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -20927,6 +22531,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -20949,6 +22554,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -20957,6 +22563,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -20965,6 +22572,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -20990,6 +22598,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -20998,6 +22607,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -21006,6 +22616,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -21028,6 +22639,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -21036,6 +22648,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -21044,6 +22657,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -21066,6 +22680,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -21074,6 +22689,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -21082,6 +22698,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -21104,6 +22721,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -21112,6 +22730,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -21120,6 +22739,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -21142,6 +22762,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -21150,6 +22771,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -21158,6 +22780,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -21180,6 +22803,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -21188,6 +22812,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -21196,6 +22821,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -21221,6 +22847,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -21229,6 +22856,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -21237,6 +22865,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -21259,6 +22888,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -21267,6 +22897,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -21275,6 +22906,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -21297,6 +22929,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -21305,6 +22938,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -21313,6 +22947,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -21335,6 +22970,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -21343,6 +22979,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -21351,6 +22988,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -21373,6 +23011,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -21381,6 +23020,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -21389,6 +23029,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -21411,6 +23052,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -21419,6 +23061,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -21427,6 +23070,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -21449,6 +23093,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -21457,6 +23102,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -21465,6 +23111,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -21501,6 +23148,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -21509,6 +23157,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -21517,6 +23166,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -21539,6 +23189,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -21547,6 +23198,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -21555,6 +23207,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -21577,6 +23230,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -21585,6 +23239,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -21593,6 +23248,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -21618,6 +23274,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -21626,6 +23283,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -21634,6 +23292,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -21656,6 +23315,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -21664,6 +23324,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -21672,6 +23333,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -21694,6 +23356,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -21702,6 +23365,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -21710,6 +23374,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -21732,6 +23397,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/SPAIN_LEAGUE/Real-Madrid.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -21740,6 +23406,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -21748,6 +23415,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -21770,6 +23438,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -21778,6 +23447,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -21786,6 +23456,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -21808,6 +23479,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -21816,6 +23488,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -21824,6 +23497,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -21846,6 +23520,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -21854,6 +23529,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -21862,6 +23538,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -21887,6 +23564,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -21895,6 +23573,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -21903,6 +23582,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -21925,6 +23605,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -21933,6 +23614,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -21941,6 +23623,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -21963,6 +23646,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -21971,6 +23655,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -21979,6 +23664,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -22001,6 +23687,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -22009,6 +23696,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -22017,6 +23705,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -22039,6 +23728,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -22047,6 +23737,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -22055,6 +23746,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -22077,6 +23769,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -22085,6 +23778,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -22093,6 +23787,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -22118,6 +23813,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -22126,6 +23822,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -22134,6 +23831,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -22156,6 +23854,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -22164,6 +23863,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -22172,6 +23872,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -22194,6 +23895,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -22202,6 +23904,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -22210,6 +23913,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -22232,6 +23936,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -22240,6 +23945,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -22248,6 +23954,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -22270,6 +23977,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -22278,6 +23986,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -22286,6 +23995,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -22308,6 +24018,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -22316,6 +24027,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -22324,6 +24036,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -22346,6 +24059,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -22354,6 +24068,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -22362,6 +24077,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -22397,6 +24113,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -22405,6 +24122,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -22413,6 +24131,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -22435,6 +24154,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -22443,6 +24163,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -22451,6 +24172,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -22473,6 +24195,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -22481,6 +24204,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -22489,6 +24213,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -22514,6 +24239,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -22522,6 +24248,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -22530,6 +24257,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -22552,6 +24280,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -22560,6 +24289,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -22568,6 +24298,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -22590,6 +24321,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -22598,6 +24330,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -22606,6 +24339,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -22628,6 +24362,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -22636,6 +24371,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -22644,6 +24380,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -22666,6 +24403,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -22674,6 +24412,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -22682,6 +24421,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -22704,6 +24444,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -22712,6 +24453,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -22720,6 +24462,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -22742,6 +24485,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -22750,6 +24494,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -22758,6 +24503,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -22783,6 +24529,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -22791,6 +24538,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -22799,6 +24547,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -22821,6 +24570,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -22829,6 +24579,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -22837,6 +24588,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -22859,6 +24611,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -22867,6 +24620,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -22875,6 +24629,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -22897,6 +24652,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -22905,6 +24661,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -22913,6 +24670,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -22935,6 +24693,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -22943,6 +24702,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -22951,6 +24711,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -22973,6 +24734,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -22981,6 +24743,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -22989,6 +24752,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -23014,6 +24778,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -23022,6 +24787,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -23030,6 +24796,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -23052,6 +24819,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -23060,6 +24828,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -23068,6 +24837,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -23090,6 +24860,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -23098,6 +24869,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -23106,6 +24878,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -23128,6 +24901,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -23136,6 +24910,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -23144,6 +24919,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -23166,6 +24942,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -23174,6 +24951,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -23182,6 +24960,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -23204,6 +24983,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -23212,6 +24992,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -23220,6 +25001,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -23242,6 +25024,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -23250,6 +25033,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -23258,6 +25042,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -23293,6 +25078,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/SAUDI_LEAGUE/AL-HLAL.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -23301,6 +25087,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -23309,6 +25096,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -23326,11 +25114,12 @@ let teamsData = [
         playerPosAR: "حارس مرمى",
         playerPos: "goalkeeper",
         playerShortPos: "GK",
-        playerClubNameAR: "",
+        playerClubNameAR: "القادسية",
         playerClubName: "Al-Qadsiah",
-        playerClubLogo: "",
+        playerClubLogo: "media/CLUBS/SAUDI_LEAGUE/AL-QADISIAH.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -23339,6 +25128,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -23347,6 +25137,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -23369,6 +25160,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/SAUDI_LEAGUE/AL-HLAL.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -23377,6 +25169,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -23385,6 +25178,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -23410,6 +25204,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -23418,6 +25213,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -23426,6 +25222,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -23446,8 +25243,10 @@ let teamsData = [
         playerClubNameAR: "الهلال السعودي",
         playerClubName: "Al-Hilal",
         playerClubLogo: "media/CLUBS/SAUDI_LEAGUE/AL-HLAL.svg",
+        playerImg: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -23456,6 +25255,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -23464,6 +25264,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -23474,18 +25275,20 @@ let teamsData = [
         ],
       },
       {
-        playerNameAR: "",
+        playerNameAR: "سعود عبدالحميد",
         playerName: "Saud Abdulhamid",
         playerAge: 26,
         playerNum: 12,
         playerPosAR: "مدافع",
         playerPos: "defender",
         playerShortPos: "RB",
-        playerClubNameAR: "",
-        playerClubName: "AS Roma",
-        playerClubLogo: "",
+        playerClubNameAR: "لانس الفرنسي",
+        playerClubName: "lens",
+        playerClubLogo: "media/CLUBS/FRENCH_LEAGUE/LENS.svg",
+        playerImg: "media/PLAYERS/KSA/SAUD.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -23494,6 +25297,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -23502,6 +25306,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -23512,7 +25317,7 @@ let teamsData = [
         ],
       },
       {
-        playerNameAR: "",
+        playerNameAR: "حسان التمبكتي",
         playerName: "Hassan Al-Tambakti",
         playerAge: 27,
         playerNum: 17,
@@ -23522,8 +25327,10 @@ let teamsData = [
         playerClubNameAR: "الهلال السعودي",
         playerClubName: "Al-Hilal",
         playerClubLogo: "media/CLUBS/SAUDI_LEAGUE/AL-HLAL.svg",
+        playerImg: "media/PLAYERS/KSA/TAMBAKTI.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -23532,6 +25339,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -23540,6 +25348,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -23562,6 +25371,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -23570,6 +25380,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -23578,6 +25389,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -23588,7 +25400,7 @@ let teamsData = [
         ],
       },
       {
-        playerNameAR: "",
+        playerNameAR: "متعب الحربي",
         playerName: "Moteb Al-Harbi",
         playerAge: 25,
         playerNum: 13,
@@ -23600,6 +25412,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/SAUDI_LEAGUE/AL-HLAL.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -23608,6 +25421,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -23616,6 +25430,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -23639,6 +25454,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -23647,6 +25463,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -23655,6 +25472,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -23668,7 +25486,7 @@ let teamsData = [
       //
 
       {
-        playerNameAR: "",
+        playerNameAR: "محمد كنو",
         playerName: "Mohamed Kanno",
         playerAge: 31,
         playerNum: 23,
@@ -23678,8 +25496,10 @@ let teamsData = [
         playerClubNameAR: "الهلال السعودي",
         playerClubName: "Al-Hilal",
         playerClubLogo: "media/CLUBS/SAUDI_LEAGUE/AL-HLAL.svg",
+        playerImg: "media/PLAYERS/KSA/KANNO.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -23688,6 +25508,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -23696,6 +25517,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -23718,6 +25540,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -23726,6 +25549,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -23734,6 +25558,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -23756,6 +25581,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -23764,6 +25590,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -23772,6 +25599,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -23782,18 +25610,20 @@ let teamsData = [
         ],
       },
       {
-        playerNameAR: "",
+        playerNameAR: "مصعب الجوير",
         playerName: "Musab Al-Juwayr",
         playerAge: 22,
         playerNum: 6,
         playerPosAR: "لاعب وسط",
         playerPos: "midfielder",
         playerShortPos: "CM",
-        playerClubNameAR: "",
-        playerClubName: "Al-Shabab",
-        playerClubLogo: "",
+        playerClubNameAR: "القادسية",
+        playerClubName: "Al-Qadsiah",
+        playerClubLogo: "media/CLUBS/SAUDI_LEAGUE/AL-QADISIAH.svg",
+        playerImg: "media/PLAYERS/KSA/MUSAAB.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -23802,6 +25632,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -23810,6 +25641,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -23820,7 +25652,7 @@ let teamsData = [
         ],
       },
       {
-        playerNameAR: "",
+        playerNameAR: "سالم الدوسري",
         playerName: "Salem Al-Dawsari",
         playerAge: 34,
         playerNum: 10,
@@ -23830,8 +25662,10 @@ let teamsData = [
         playerClubNameAR: "الهلال السعودي",
         playerClubName: "Al-Hilal",
         playerClubLogo: "media/CLUBS/SAUDI_LEAGUE/AL-HLAL.svg",
+        playerImg: "media/PLAYERS/KSA/SALEM.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -23840,6 +25674,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -23848,6 +25683,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -23870,6 +25706,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -23878,6 +25715,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -23886,6 +25724,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -23899,7 +25738,7 @@ let teamsData = [
       //
 
       {
-        playerNameAR: "",
+        playerNameAR: "فراس البريكان",
         playerName: "Firas Al-Buraikan",
         playerAge: 25,
         playerNum: 9,
@@ -23909,8 +25748,10 @@ let teamsData = [
         playerClubNameAR: "الأهلي السعودي",
         playerClubName: "Al Ahli",
         playerClubLogo: "media/CLUBS/SAUDI_LEAGUE/AL-AHLI.svg",
+        playerImg: "media/PLAYERS/KSA/FERAS.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -23919,6 +25760,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -23927,6 +25769,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -23949,6 +25792,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -23957,6 +25801,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -23965,6 +25810,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -23987,6 +25833,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -23995,6 +25842,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -24003,6 +25851,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -24025,6 +25874,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -24033,6 +25883,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -24041,6 +25892,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -24063,6 +25915,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -24071,6 +25924,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -24079,6 +25933,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -24101,6 +25956,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -24109,6 +25965,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -24117,6 +25974,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -24139,6 +25997,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -24147,6 +26006,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -24155,6 +26015,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -24190,6 +26051,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -24198,6 +26060,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -24206,6 +26069,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -24228,6 +26092,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -24236,6 +26101,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -24244,6 +26110,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -24266,6 +26133,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -24274,6 +26142,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -24282,6 +26151,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -24307,6 +26177,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -24315,6 +26186,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -24323,6 +26195,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -24345,6 +26218,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -24353,6 +26227,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -24361,6 +26236,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -24383,6 +26259,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -24391,6 +26268,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -24399,6 +26277,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -24416,11 +26295,12 @@ let teamsData = [
         playerPosAR: "مدافع",
         playerPos: "defender",
         playerShortPos: "RB",
-        playerClubNameAR: "",
+        playerClubNameAR: "القادسية",
         playerClubName: "Al-Qadsiah",
-        playerClubLogo: "",
+        playerClubLogo: "media/CLUBS/SAUDI_LEAGUE/AL-QADISIAH.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -24429,6 +26309,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -24437,6 +26318,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -24459,6 +26341,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -24467,6 +26350,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -24475,6 +26359,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -24497,6 +26382,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -24505,6 +26391,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -24513,6 +26400,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -24535,6 +26423,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -24543,6 +26432,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -24551,6 +26441,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -24576,6 +26467,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/SPAIN_LEAGUE/Real-Madrid.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -24584,6 +26476,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -24592,6 +26485,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -24614,6 +26508,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -24622,6 +26517,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -24630,6 +26526,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -24652,6 +26549,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -24660,6 +26558,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -24668,6 +26567,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -24690,6 +26590,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -24698,6 +26599,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -24706,6 +26608,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -24728,6 +26631,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -24736,6 +26640,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -24744,6 +26649,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -24766,6 +26672,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -24774,6 +26681,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -24782,6 +26690,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -24807,6 +26716,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/ENGLISH_LEAGUE/Liverpool.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -24815,6 +26725,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -24823,6 +26734,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -24845,6 +26757,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -24853,6 +26766,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -24861,6 +26775,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -24883,6 +26798,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -24891,6 +26807,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -24899,6 +26816,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -24921,6 +26839,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -24929,6 +26848,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -24937,6 +26857,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -24959,6 +26880,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -24967,6 +26889,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -24975,6 +26898,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -24997,6 +26921,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -25005,6 +26930,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -25013,6 +26939,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -25035,6 +26962,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -25043,6 +26971,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -25051,6 +26980,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -25087,6 +27017,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -25095,6 +27026,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -25103,6 +27035,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -25120,11 +27053,12 @@ let teamsData = [
         playerPosAR: "حارس مرمى",
         playerPos: "goalkeeper",
         playerShortPos: "GK",
-        playerClubNameAR: "",
-        playerClubName: "Lens",
+        playerClubNameAR: "لانس الفرنسي",
+        playerClubName: "lens",
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -25133,6 +27067,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -25141,6 +27076,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -25163,6 +27099,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -25171,6 +27108,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -25179,6 +27117,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -25204,6 +27143,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -25212,6 +27152,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -25220,6 +27161,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -25242,6 +27184,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -25250,6 +27193,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -25258,6 +27202,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -25280,6 +27225,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/ENGLISH_LEAGUE/Liverpool.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -25288,6 +27234,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -25296,6 +27243,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -25318,6 +27266,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -25326,6 +27275,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -25334,6 +27284,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -25356,6 +27307,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -25364,6 +27316,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -25372,6 +27325,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -25394,6 +27348,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -25402,6 +27357,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -25410,6 +27366,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -25432,6 +27389,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -25440,6 +27398,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -25448,6 +27407,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -25473,6 +27433,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/SPAIN_LEAGUE/Real-Madrid.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -25481,6 +27442,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -25489,6 +27451,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -25511,6 +27474,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/SPAIN_LEAGUE/Real-Madrid.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -25519,6 +27483,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -25527,6 +27492,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -25549,6 +27515,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -25557,6 +27524,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -25565,6 +27533,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -25587,6 +27556,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -25595,6 +27565,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -25603,6 +27574,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -25625,6 +27597,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -25633,6 +27606,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -25641,6 +27615,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -25663,6 +27638,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -25671,6 +27647,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -25679,6 +27656,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -25704,6 +27682,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/SPAIN_LEAGUE/Real-Madrid.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -25712,6 +27691,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -25720,6 +27700,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -25742,6 +27723,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -25750,6 +27732,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -25758,6 +27741,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -25780,6 +27764,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -25788,6 +27773,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -25796,6 +27782,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -25818,6 +27805,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -25826,6 +27814,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -25834,6 +27823,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -25856,6 +27846,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -25864,6 +27855,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -25872,6 +27864,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -25894,6 +27887,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -25902,6 +27896,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -25910,6 +27905,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -25932,6 +27928,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -25940,6 +27937,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -25948,6 +27946,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -25984,6 +27983,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -25992,6 +27992,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -26000,6 +28001,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -26022,6 +28024,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -26030,6 +28033,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -26038,6 +28042,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -26060,6 +28065,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -26068,6 +28074,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -26076,6 +28083,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -26113,6 +28121,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -26121,6 +28130,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -26129,6 +28139,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -26151,6 +28162,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -26159,6 +28171,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -26167,6 +28180,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -26189,6 +28203,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -26197,6 +28212,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -26205,6 +28221,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -26227,6 +28244,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -26235,6 +28253,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -26243,6 +28262,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -26265,6 +28285,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -26273,6 +28294,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -26281,6 +28303,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -26303,6 +28326,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -26311,6 +28335,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -26319,6 +28344,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -26344,6 +28370,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -26352,6 +28379,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -26360,6 +28388,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -26382,6 +28411,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -26390,6 +28420,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -26398,6 +28429,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -26420,6 +28452,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -26428,6 +28461,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -26436,6 +28470,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -26458,6 +28493,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -26466,6 +28502,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -26474,6 +28511,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -26496,6 +28534,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -26504,6 +28543,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -26512,6 +28552,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -26529,11 +28570,12 @@ let teamsData = [
         playerPosAR: "لاعب وسط",
         playerPos: "midfielder",
         playerShortPos: "CDM",
-        playerClubNameAR: "",
-        playerClubName: "Lens",
+        playerClubNameAR: "لانس الفرنسي",
+        playerClubName: "lens",
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -26542,6 +28584,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -26550,6 +28593,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -26575,6 +28619,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -26583,6 +28628,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -26591,6 +28637,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -26613,6 +28660,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -26621,6 +28669,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -26629,6 +28678,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -26651,6 +28701,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -26659,6 +28710,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -26667,6 +28719,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -26689,6 +28742,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -26697,6 +28751,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -26705,6 +28760,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -26727,6 +28783,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -26735,6 +28792,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -26743,6 +28801,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -26765,6 +28824,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -26773,6 +28833,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -26781,6 +28842,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -26803,6 +28865,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -26811,6 +28874,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -26819,6 +28883,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -26854,6 +28919,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -26862,6 +28928,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -26870,6 +28937,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -26892,6 +28960,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -26900,6 +28969,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -26908,6 +28978,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -26930,6 +29001,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -26938,6 +29010,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -26946,6 +29019,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -26971,6 +29045,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -26979,6 +29054,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -26987,6 +29063,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -27009,6 +29086,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -27017,6 +29095,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -27025,6 +29104,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -27047,6 +29127,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -27055,6 +29136,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -27063,6 +29145,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -27085,6 +29168,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -27093,6 +29177,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -27101,6 +29186,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -27123,6 +29209,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -27131,6 +29218,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -27139,6 +29227,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -27161,6 +29250,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -27169,6 +29259,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -27177,6 +29268,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -27199,6 +29291,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -27207,6 +29300,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -27215,6 +29309,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -27240,6 +29335,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -27248,6 +29344,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -27256,6 +29353,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -27278,6 +29376,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -27286,6 +29385,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -27294,6 +29394,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -27316,6 +29417,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -27324,6 +29426,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -27332,6 +29435,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -27354,6 +29458,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -27362,6 +29467,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -27370,6 +29476,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -27392,6 +29499,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -27400,6 +29508,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -27408,6 +29517,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -27430,6 +29540,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -27438,6 +29549,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -27446,6 +29558,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -27471,6 +29584,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -27479,6 +29593,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -27487,6 +29602,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -27509,6 +29625,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -27517,6 +29634,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -27525,6 +29643,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -27547,6 +29666,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -27555,6 +29675,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -27563,6 +29684,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -27585,6 +29707,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -27593,6 +29716,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -27601,6 +29725,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -27623,6 +29748,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -27631,6 +29757,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -27639,6 +29766,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -27661,6 +29789,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -27669,6 +29798,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -27677,6 +29807,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -27699,6 +29830,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -27707,6 +29839,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -27715,6 +29848,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -27762,6 +29896,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -27770,6 +29905,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -27778,6 +29914,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -27800,6 +29937,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -27808,6 +29946,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -27816,6 +29955,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -27838,6 +29978,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -27846,6 +29987,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -27854,6 +29996,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -27879,6 +30022,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -27887,6 +30031,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -27895,6 +30040,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -27917,6 +30063,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -27925,6 +30072,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -27933,6 +30081,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -27955,6 +30104,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -27963,6 +30113,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -27971,6 +30122,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -27993,6 +30145,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -28001,6 +30154,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -28009,6 +30163,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -28031,6 +30186,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -28039,6 +30195,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -28047,6 +30204,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -28069,6 +30227,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -28077,6 +30236,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -28085,6 +30245,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -28102,11 +30263,12 @@ let teamsData = [
         playerPosAR: "مدافع",
         playerPos: "defender",
         playerShortPos: "LB/CB",
-        playerClubNameAR: "",
-        playerClubName: "Lens",
+        playerClubNameAR: "لانس الفرنسي",
+        playerClubName: "lens",
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -28115,6 +30277,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -28123,6 +30286,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -28148,6 +30312,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/ENGLISH_LEAGUE/Liverpool.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -28156,6 +30321,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -28164,6 +30330,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -28186,6 +30353,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -28194,6 +30362,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -28202,6 +30371,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -28224,6 +30394,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -28232,6 +30403,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -28240,6 +30412,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -28262,6 +30435,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -28270,6 +30444,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -28278,6 +30453,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -28300,6 +30476,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -28308,6 +30485,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -28316,6 +30494,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -28338,6 +30517,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -28346,6 +30526,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -28354,6 +30535,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -28379,6 +30561,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -28387,6 +30570,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -28395,6 +30579,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -28417,6 +30602,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -28425,6 +30611,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -28433,6 +30620,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -28455,6 +30643,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -28463,6 +30652,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -28471,6 +30661,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -28493,6 +30684,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -28501,6 +30693,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -28509,6 +30702,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -28531,6 +30725,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -28539,6 +30734,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -28547,6 +30743,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -28569,6 +30766,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -28577,6 +30775,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -28585,6 +30784,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -28607,6 +30807,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -28615,6 +30816,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -28623,6 +30825,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -28658,6 +30861,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -28666,6 +30870,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -28674,6 +30879,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -28696,6 +30902,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -28704,6 +30911,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -28712,6 +30920,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -28734,6 +30943,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -28742,6 +30952,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -28750,6 +30961,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -28775,6 +30987,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -28783,6 +30996,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -28791,6 +31005,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -28813,6 +31028,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -28821,6 +31037,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -28829,6 +31046,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -28851,6 +31069,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -28859,6 +31078,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -28867,6 +31087,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -28889,6 +31110,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -28897,6 +31119,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -28905,6 +31128,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -28927,6 +31151,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -28935,6 +31160,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -28943,6 +31169,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -28965,6 +31192,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -28973,6 +31201,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -28981,6 +31210,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -29003,6 +31233,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -29011,6 +31242,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -29019,6 +31251,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -29044,6 +31277,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -29052,6 +31286,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -29060,6 +31295,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -29082,6 +31318,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -29090,6 +31327,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -29098,6 +31336,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -29120,6 +31359,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -29128,6 +31368,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -29136,6 +31377,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -29158,6 +31400,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -29166,6 +31409,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -29174,6 +31418,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -29196,6 +31441,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -29204,6 +31450,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -29212,6 +31459,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -29234,6 +31482,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -29242,6 +31491,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -29250,6 +31500,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -29276,6 +31527,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -29284,6 +31536,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -29292,6 +31545,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -29314,6 +31568,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -29322,6 +31577,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -29330,6 +31586,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -29352,6 +31609,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -29360,6 +31618,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -29368,6 +31627,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -29390,6 +31650,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -29398,6 +31659,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -29406,6 +31668,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -29428,6 +31691,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -29436,6 +31700,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -29444,6 +31709,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -29466,6 +31732,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -29474,6 +31741,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -29482,6 +31750,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -29504,6 +31773,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -29512,6 +31782,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -29520,6 +31791,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -29555,6 +31827,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -29563,6 +31836,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -29571,6 +31845,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -29593,6 +31868,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -29601,6 +31877,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -29609,6 +31886,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -29631,6 +31909,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -29639,6 +31918,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -29647,6 +31927,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -29672,6 +31953,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/SPAIN_LEAGUE/Real-Madrid.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -29680,6 +31962,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -29688,6 +31971,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -29710,6 +31994,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -29718,6 +32003,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -29726,6 +32012,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -29748,6 +32035,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -29756,6 +32044,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -29764,6 +32053,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -29786,6 +32076,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -29794,6 +32085,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -29802,6 +32094,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -29824,6 +32117,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -29832,6 +32126,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -29840,6 +32135,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -29862,6 +32158,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -29870,6 +32167,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -29878,6 +32176,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -29900,6 +32199,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -29908,6 +32208,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -29916,6 +32217,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -29941,6 +32243,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -29949,6 +32252,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -29957,6 +32261,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -29979,6 +32284,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -29987,6 +32293,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -29995,6 +32302,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -30017,6 +32325,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -30025,6 +32334,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -30033,6 +32343,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -30055,6 +32366,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -30063,6 +32375,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -30071,6 +32384,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -30093,6 +32407,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -30101,6 +32416,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -30109,6 +32425,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -30131,6 +32448,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -30139,6 +32457,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -30147,6 +32466,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -30172,6 +32492,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -30180,6 +32501,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -30188,6 +32510,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -30210,6 +32533,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -30218,6 +32542,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -30226,6 +32551,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -30248,6 +32574,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -30256,6 +32583,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -30264,6 +32592,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -30286,6 +32615,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -30294,6 +32624,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -30302,6 +32633,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -30324,6 +32656,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -30332,6 +32665,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -30340,6 +32674,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -30362,6 +32697,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -30370,6 +32706,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -30378,6 +32715,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -30400,6 +32738,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -30408,6 +32747,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -30416,6 +32756,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -30451,6 +32792,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -30459,6 +32801,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -30467,6 +32810,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -30489,6 +32833,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -30497,6 +32842,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -30505,6 +32851,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -30527,6 +32874,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -30535,6 +32883,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -30543,6 +32892,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -30568,6 +32918,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -30576,6 +32927,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -30584,6 +32936,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -30606,6 +32959,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -30614,6 +32968,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -30622,6 +32977,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -30644,6 +33000,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -30652,6 +33009,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -30660,6 +33018,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -30682,6 +33041,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -30690,6 +33050,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -30698,6 +33059,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -30720,6 +33082,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -30728,6 +33091,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -30736,6 +33100,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -30758,6 +33123,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -30766,6 +33132,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -30774,6 +33141,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -30796,6 +33164,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -30804,6 +33173,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -30812,6 +33182,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -30837,6 +33208,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -30845,6 +33217,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -30853,6 +33226,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -30875,6 +33249,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -30883,6 +33258,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -30891,6 +33267,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -30913,6 +33290,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -30921,6 +33299,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -30929,6 +33308,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -30951,6 +33331,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -30959,6 +33340,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -30967,6 +33349,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -30989,6 +33372,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -30997,6 +33381,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -31005,6 +33390,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -31027,6 +33413,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -31035,6 +33422,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -31043,6 +33431,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -31068,6 +33457,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -31076,6 +33466,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -31084,6 +33475,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -31106,6 +33498,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -31114,6 +33507,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -31122,6 +33516,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -31144,6 +33539,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -31152,6 +33548,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -31160,6 +33557,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -31182,6 +33580,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -31190,6 +33589,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -31198,6 +33598,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -31220,6 +33621,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -31228,6 +33630,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -31236,6 +33639,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -31258,6 +33662,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -31266,6 +33671,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -31274,6 +33680,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -31296,6 +33703,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -31304,6 +33712,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -31312,6 +33721,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -31348,6 +33758,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -31356,6 +33767,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -31364,6 +33776,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -31386,6 +33799,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -31394,6 +33808,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -31402,6 +33817,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -31424,6 +33840,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -31432,6 +33849,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -31440,6 +33858,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -31465,6 +33884,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -31473,6 +33893,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -31481,6 +33902,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -31503,6 +33925,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -31511,6 +33934,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -31519,6 +33943,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -31541,6 +33966,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -31549,6 +33975,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -31557,6 +33984,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -31579,6 +34007,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -31587,6 +34016,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -31595,6 +34025,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -31617,6 +34048,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -31625,6 +34057,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -31633,6 +34066,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -31667,6 +34101,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -31675,6 +34110,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -31683,6 +34119,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -31708,6 +34145,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -31716,6 +34154,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -31724,6 +34163,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -31746,6 +34186,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -31754,6 +34195,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -31762,6 +34204,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -31784,6 +34227,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -31792,6 +34236,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -31800,6 +34245,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -31822,6 +34268,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -31830,6 +34277,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -31838,6 +34286,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -31860,6 +34309,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -31868,6 +34318,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -31876,6 +34327,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -31913,6 +34365,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -31921,6 +34374,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -31929,6 +34383,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -31951,6 +34406,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -31959,6 +34415,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -31967,6 +34424,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -31989,6 +34447,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -31997,6 +34456,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -32005,6 +34465,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -32027,6 +34488,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -32035,6 +34497,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -32043,6 +34506,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -32065,6 +34529,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -32073,6 +34538,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -32081,6 +34547,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -32103,6 +34570,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -32111,6 +34579,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -32119,6 +34588,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -32141,6 +34611,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/ENGLISH_LEAGUE/Liverpool.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -32149,6 +34620,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -32157,6 +34629,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -32192,6 +34665,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -32200,6 +34674,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -32208,6 +34683,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -32230,6 +34706,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -32238,6 +34715,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -32246,6 +34724,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -32268,6 +34747,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -32276,6 +34756,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -32284,6 +34765,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -32309,6 +34791,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -32317,6 +34800,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -32325,6 +34809,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -32347,6 +34832,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -32355,6 +34841,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -32363,6 +34850,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -32385,6 +34873,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -32393,6 +34882,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -32401,6 +34891,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -32423,6 +34914,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -32431,6 +34923,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -32439,6 +34932,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -32461,6 +34955,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -32469,6 +34964,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -32477,6 +34973,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -32499,6 +34996,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -32507,6 +35005,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -32515,6 +35014,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -32537,6 +35037,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -32545,6 +35046,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -32553,6 +35055,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -32578,6 +35081,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -32586,6 +35090,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -32594,6 +35099,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -32616,6 +35122,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -32624,6 +35131,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -32632,6 +35140,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -32654,6 +35163,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -32662,6 +35172,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -32670,6 +35181,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -32692,6 +35204,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -32700,6 +35213,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -32708,6 +35222,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -32730,6 +35245,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -32738,6 +35254,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -32746,6 +35263,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -32768,6 +35286,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -32776,6 +35295,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -32784,6 +35304,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -32809,6 +35330,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -32817,6 +35339,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -32825,6 +35348,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -32847,6 +35371,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -32855,6 +35380,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -32863,6 +35389,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -32885,6 +35412,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -32893,6 +35421,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -32901,6 +35430,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -32923,6 +35453,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -32931,6 +35462,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -32939,6 +35471,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -32961,6 +35494,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -32969,6 +35503,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -32977,6 +35512,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -32999,6 +35535,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -33007,6 +35544,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -33015,6 +35553,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -33037,6 +35576,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -33045,6 +35585,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -33053,6 +35594,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -33088,6 +35630,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -33096,6 +35639,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -33104,6 +35648,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -33126,6 +35671,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -33134,6 +35680,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -33142,6 +35689,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -33164,6 +35712,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -33172,6 +35721,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -33180,6 +35730,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -33205,6 +35756,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -33213,6 +35765,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -33221,6 +35774,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -33243,6 +35797,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -33251,6 +35806,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -33259,6 +35815,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -33281,6 +35838,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -33289,6 +35847,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -33297,6 +35856,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -33319,6 +35879,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -33327,6 +35888,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -33335,6 +35897,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -33357,6 +35920,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -33365,6 +35929,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -33373,6 +35938,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -33395,6 +35961,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -33403,6 +35970,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -33411,6 +35979,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -33433,6 +36002,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -33441,6 +36011,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -33449,6 +36020,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -33474,6 +36046,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -33482,6 +36055,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -33490,6 +36064,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -33512,6 +36087,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -33520,6 +36096,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -33528,6 +36105,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -33550,6 +36128,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -33558,6 +36137,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -33566,6 +36146,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -33588,6 +36169,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -33596,6 +36178,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -33604,6 +36187,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -33626,6 +36210,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -33634,6 +36219,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -33642,6 +36228,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -33664,6 +36251,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -33672,6 +36260,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -33680,6 +36269,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -33705,6 +36295,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/ENGLISH_LEAGUE/Liverpool.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -33713,6 +36304,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -33721,6 +36313,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -33743,6 +36336,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -33751,6 +36345,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -33759,6 +36354,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -33781,6 +36377,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -33789,6 +36386,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -33797,6 +36395,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -33819,6 +36418,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -33827,6 +36427,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -33835,6 +36436,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -33857,6 +36459,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -33865,6 +36468,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -33873,6 +36477,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -33895,6 +36500,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -33903,6 +36509,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -33911,6 +36518,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -33933,6 +36541,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -33941,6 +36550,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -33949,6 +36559,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -33996,6 +36607,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -34004,6 +36616,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -34012,6 +36625,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -34034,6 +36648,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -34042,6 +36657,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -34050,6 +36666,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -34072,6 +36689,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -34080,6 +36698,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -34088,6 +36707,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -34113,6 +36733,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -34121,6 +36742,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -34129,6 +36751,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -34151,6 +36774,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -34159,6 +36783,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -34167,6 +36792,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -34189,6 +36815,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/ENGLISH_LEAGUE/Liverpool.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -34197,6 +36824,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -34205,6 +36833,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -34227,6 +36856,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/SPAIN_LEAGUE/Real-Madrid.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -34235,6 +36865,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -34243,6 +36874,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -34265,6 +36897,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -34273,6 +36906,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -34281,6 +36915,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -34303,6 +36938,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -34311,6 +36947,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -34319,6 +36956,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -34341,6 +36979,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -34349,6 +36988,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -34357,6 +36997,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -34382,6 +37023,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -34390,6 +37032,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -34398,6 +37041,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -34420,6 +37064,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/SPAIN_LEAGUE/Real-Madrid.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -34428,6 +37073,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -34436,6 +37082,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -34458,6 +37105,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -34466,6 +37114,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -34474,6 +37123,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -34496,6 +37146,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -34504,6 +37155,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -34512,6 +37164,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -34534,6 +37187,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -34542,6 +37196,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -34550,6 +37205,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -34572,6 +37228,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -34580,6 +37237,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -34588,6 +37246,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -34613,6 +37272,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -34621,6 +37281,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -34629,6 +37290,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -34651,6 +37313,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -34659,6 +37322,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -34667,6 +37331,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -34689,6 +37354,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -34697,6 +37363,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -34705,6 +37372,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -34727,6 +37395,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -34735,6 +37404,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -34743,6 +37413,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -34765,6 +37436,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -34773,6 +37445,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -34781,6 +37454,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -34803,6 +37477,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -34811,6 +37486,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -34819,6 +37495,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -34841,6 +37518,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -34849,6 +37527,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -34857,6 +37536,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -34892,6 +37572,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -34900,6 +37581,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -34908,6 +37590,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -34930,6 +37613,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -34938,6 +37622,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -34946,6 +37631,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -34968,6 +37654,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -34976,6 +37663,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -34984,6 +37672,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -35009,6 +37698,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -35017,6 +37707,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -35025,6 +37716,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -35047,6 +37739,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -35055,6 +37748,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -35063,6 +37757,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -35085,6 +37780,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -35093,6 +37789,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -35101,6 +37798,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -35123,6 +37821,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -35131,6 +37830,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -35139,6 +37839,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -35161,6 +37862,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -35169,6 +37871,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -35177,6 +37880,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -35199,6 +37903,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -35207,6 +37912,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -35215,6 +37921,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -35237,6 +37944,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -35245,6 +37953,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -35253,6 +37962,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -35278,6 +37988,7 @@ let teamsData = [
         playerClubLogo: "media/CLUBS/SPAIN_LEAGUE/Real-Madrid.svg",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -35286,6 +37997,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -35294,6 +38006,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -35316,6 +38029,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -35324,6 +38038,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -35332,6 +38047,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -35354,6 +38070,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -35362,6 +38079,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -35370,6 +38088,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -35392,6 +38111,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -35400,6 +38120,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -35408,6 +38129,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -35430,6 +38152,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -35438,6 +38161,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -35446,6 +38170,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -35468,6 +38193,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -35476,6 +38202,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -35484,6 +38211,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -35509,6 +38237,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -35517,6 +38246,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -35525,6 +38255,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -35547,6 +38278,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -35555,6 +38287,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -35563,6 +38296,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -35585,6 +38319,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -35593,6 +38328,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -35601,6 +38337,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -35623,6 +38360,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -35631,6 +38369,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -35639,6 +38378,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -35661,6 +38401,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -35669,6 +38410,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -35677,6 +38419,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -35699,6 +38442,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -35707,6 +38451,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -35715,6 +38460,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -35737,6 +38483,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -35745,6 +38492,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -35753,6 +38501,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -35788,6 +38537,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -35796,6 +38546,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -35804,6 +38555,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -35826,6 +38578,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -35834,6 +38587,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -35842,6 +38596,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -35864,6 +38619,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -35872,6 +38628,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -35880,6 +38637,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -35905,6 +38663,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -35913,6 +38672,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -35921,6 +38681,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -35943,6 +38704,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -35951,6 +38713,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -35959,6 +38722,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -35981,6 +38745,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -35989,6 +38754,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -35997,6 +38763,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -36019,6 +38786,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -36027,6 +38795,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -36035,6 +38804,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -36057,6 +38827,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -36065,6 +38836,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -36073,6 +38845,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -36095,6 +38868,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -36103,6 +38877,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -36111,6 +38886,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -36133,6 +38909,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -36141,6 +38918,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -36149,6 +38927,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -36174,6 +38953,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -36182,6 +38962,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -36190,6 +38971,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -36212,6 +38994,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -36220,6 +39003,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -36228,6 +39012,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -36250,6 +39035,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -36258,6 +39044,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -36266,6 +39053,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -36288,6 +39076,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -36296,6 +39085,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -36304,6 +39094,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -36326,6 +39117,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -36334,6 +39126,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -36342,6 +39135,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -36364,6 +39158,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -36372,6 +39167,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -36380,6 +39176,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -36405,6 +39202,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -36413,6 +39211,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -36421,6 +39220,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -36443,6 +39243,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -36451,6 +39252,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -36459,6 +39261,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -36481,6 +39284,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -36489,6 +39293,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -36497,6 +39302,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -36519,6 +39325,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -36527,6 +39334,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -36535,6 +39343,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -36557,6 +39366,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -36565,6 +39375,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -36573,6 +39384,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -36595,6 +39407,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -36603,6 +39416,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -36611,6 +39425,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -36633,6 +39448,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -36641,6 +39457,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -36649,6 +39466,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -36684,6 +39502,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -36692,6 +39511,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -36700,6 +39520,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -36722,6 +39543,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -36730,6 +39552,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -36738,6 +39561,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -36760,6 +39584,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -36768,6 +39593,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -36776,6 +39602,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -36801,6 +39628,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -36809,6 +39637,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -36817,6 +39646,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -36839,6 +39669,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -36847,6 +39678,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -36855,6 +39687,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -36877,6 +39710,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -36885,6 +39719,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -36893,6 +39728,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -36915,6 +39751,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -36923,6 +39760,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -36931,6 +39769,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -36953,6 +39792,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -36961,6 +39801,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -36969,6 +39810,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -36991,6 +39833,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -36999,6 +39842,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -37007,6 +39851,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -37029,6 +39874,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -37037,6 +39883,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -37045,6 +39892,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -37070,6 +39918,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -37078,6 +39927,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -37086,6 +39936,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -37108,6 +39959,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -37116,6 +39968,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -37124,6 +39977,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -37146,6 +40000,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -37154,6 +40009,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -37162,6 +40018,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -37184,6 +40041,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -37192,6 +40050,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -37200,6 +40059,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -37222,6 +40082,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -37230,6 +40091,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -37238,6 +40100,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -37260,6 +40123,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -37268,6 +40132,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -37276,6 +40141,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -37301,6 +40167,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -37309,6 +40176,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -37317,6 +40185,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -37339,6 +40208,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -37347,6 +40217,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -37355,6 +40226,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -37377,6 +40249,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -37385,6 +40258,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -37393,6 +40267,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -37415,6 +40290,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -37423,6 +40299,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -37431,6 +40308,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -37453,6 +40331,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -37461,6 +40340,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -37469,6 +40349,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -37491,6 +40372,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -37499,6 +40381,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -37507,6 +40390,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
@@ -37529,6 +40413,7 @@ let teamsData = [
         playerClubLogo: "",
         playerStats: [
           {
+            vsAR: "",
             vs: "uruguay",
             mp: 0,
             g: 0,
@@ -37537,6 +40422,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "spain",
             mp: 0,
             g: 0,
@@ -37545,6 +40431,7 @@ let teamsData = [
             rc: 0,
           },
           {
+            vsAR: "",
             vs: "cabo verde",
             mp: 0,
             g: 0,
