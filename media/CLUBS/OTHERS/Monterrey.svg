@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   fill="#0a2240"
+   viewBox="8 3 491 491"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="Monterrey.svg"
+   width="491"
+   height="491"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.54748982"
+     inkscape:cx="-50.229244"
+     inkscape:cy="541.56258"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <g
+     id="g6"
+     transform="matrix(0.62825279,0,0,0.62825279,94.237918,15.104089)">
+    <path
+       d="m 253,83 c 0,0 53,5 122,28 63,21 124,54 124,54 v 9 c 0,225 -48,364 -246,484 0,0 -31,-20 -61,-42 C 41,499 8,368 8,174 v -9 c 0,0 60,-33 124,-54 69,-23 121,-28 121,-28"
+       id="path1" />
+    <path
+       d="m 133,116 c 69,-23 120,-28 120,-28 0,0 52,5 121,28 62,21 119,52 119,52 v 6 c 0,193 -32,323 -182,438 -29,22 -58,39 -58,39 0,0 -28,-17 -57,-39 C 46,497 14,367 14,174 v -6 c 0,0 57,-31 119,-52"
+       fill="#ffffff"
+       id="path2" />
+    <path
+       d="m 323,425 16,-55 20,56 90,-25 -60,-176 h -99 l -37,66 -37,-66 h -98 l -60,176 90,25 20,-56 16,55 z"
+       id="path3" />
+    <path
+       d="m 107,137 v 75 L 47,387 C 33,338 24,272 24,174 c 0,0 35,-19 83,-37 m 0,291 v 79 C 88,480 70,453 56,414 Z m 206,9 v 159 c -32,26 -60,43 -60,43 0,0 -28,-17 -61,-44 V 439 h 121 z m 86,71 v -80 l 52,-15 c -15,40 -33,68 -52,95 M 313,212 h -29 l -31,55 -30,-55 H 192 V 110 c 38,-9 61,-11 61,-11 0,0 24,2 60,11 z m 86,0 v -76 c 48,19 84,38 84,38 0,99 -10,165 -24,215 z"
+       id="path4" />
+    <path
+       d="M 40,100 24,112 30,93 14,81 h 20 l 6,-19 7,19 h 20 l -17,12 7,19 z M 147,63 130,75 137,55 120,43 h 21 l 6,-19 6,19 h 21 l -17,12 6,20 z M 253,42 237,54 243,35 227,23 h 20 l 6,-20 7,20 h 20 l -16,12 6,19 z m 107,21 -16,12 6,-20 -17,-12 h 21 l 6,-19 6,19 h 21 l -17,12 7,20 z m 107,37 -17,12 6,-19 -16,-12 h 20 l 7,-19 6,19 h 20 l -16,12 6,19 z"
+       id="path5" />
+    <path
+       d="m 94,608 -17,12 6,-20 -16,-12 h 20 l 7,-19 6,19 h 20 l -16,12 6,20 z m 80,69 -17,12 6,-20 -16,-12 h 20 l 7,-19 6,19 h 20 l -16,12 6,20 z m 79,51 -16,12 6,-19 -16,-12 h 20 l 6,-20 7,20 h 20 l -16,12 6,19 z m 80,-51 -16,12 6,-20 -16,-12 h 20 l 6,-19 7,19 h 20 l -16,12 6,20 z m 80,-69 -16,12 6,-20 -16,-12 h 20 l 6,-19 7,19 h 20 l -16,12 6,20 z"
+       fill="#d59f0f"
+       id="path6" />
+  </g>
+</svg>
