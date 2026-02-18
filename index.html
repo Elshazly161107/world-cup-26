@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>World Cup 2026</title>
+        <link rel="icon" href="media/WORLDCUPLOGO/LOGO3.svg">
+
+        <link rel="stylesheet" href="globel.css">
+        <link rel="stylesheet" href="index.css">
+        <link rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+            integrity="sha512-p1A9B6...etc..." crossorigin="anonymous"
+            referpolicy="no-referrer" />
+    </head>
+    <body>
+        <header>
+            <div class="container">
+                <img src="media/WORLDCUPLOGO/LOGO3.svg" alt="WORLDCUPLOGO"
+                    class="WC-logo">
+                <div class="btns">
+                    <button id="switch-mode">
+                        <i class="fa-solid fa-sun"></i>
+                    </button>
+                    <button id="switch-lang">ar</button>
+                </div>
+            </div>
+        </header>
+
+        <nav>
+            <div class="container">
+                <ul></ul>
+            </div>
+        </nav>
+
+        <section>
+            <div class="container">
+                <div class="count-down">
+                    <div class="the-watch">
+                        <div id="days">
+                            <span class="the-num">00</span>
+                            <span class="type">day/s</span>
+                        </div>
+                        <div id="hours">
+                            <span class="the-num">00</span>
+                            <span class="type">hour/s</span>
+                        </div>
+                        <div id="minutes">
+                            <span class="the-num">00</span>
+                            <span class="type">minute/s</span>
+                        </div>
+                        <div id="seconds">
+                            <span class="the-num">00</span>
+                            <span class="type">Second/s</span>
+                        </div>
+                    </div>
+                    <h1>left to start !</h1>
+                </div>
+                <hr>
+                <div class="teams">
+                    <div id="teams" class="div-id"></div>
+
+                    <div class="title-wrapper">
+                        <button class="prev"
+                            onclick="scrollLeftBtnTeams()">&#10094;</button>
+                        <h1 class="section-title">teams</h1>
+                        <button class="next"
+                            onclick="scrollRightBtnTeams()">&#10095;</button>
+                    </div>
+
+                    <div class="teams-show" id="teamsContainer">
+                    </div>
+                </div>
+                <hr>
+                <div class="matches">
+                    <div class="div-id" id="matches"></div>
+                    <div class="title-wrapper">
+                        <button class="prev"
+                            onclick="scrollLeftBtnMatches()">&#10094;</button>
+                        <h1 class="section-title">matches</h1>
+                        <button class="next"
+                            onclick="scrollRightBtnMatches()">&#10095;</button>
+                    </div>
+                    <div class="matches-show">
+
+                    </div>
+                </div>
+                <hr>
+            </div>
+        </section>
+
+        <footer>
+            <div class="container">
+                <p>made by abdullah elshazly &hearts;</p>
+            </div>
+        </footer>
+
+        <div class="theme-fade"></div>
+    </body>
+
+    <script src="teams-data.js"></script>
+    <script src="matches-data.js"></script>
+    <script src="index.js"></script>
+    <script src="switch-language-index.js"></script>
+</html>
