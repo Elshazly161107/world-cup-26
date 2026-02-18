@@ -71,9 +71,9 @@ langBtn.addEventListener("click", function () {
           !mainData.teamPlayers[i].playerImg ||
           mainData.teamPlayers[i].playerImg === ""
         ) {
-          playerPic = "/media/PLAYERS/unknown.svg";
+          playerPic = "../../media/PLAYERS/unknown.svg";
         } else {
-          playerPic = `/${mainData.teamPlayers[i].playerImg}`;
+          playerPic = `../../${mainData.teamPlayers[i].playerImg}`;
         }
         //
         let clubPic;
@@ -81,9 +81,9 @@ langBtn.addEventListener("click", function () {
           !mainData.teamPlayers[i].playerClubLogo ||
           mainData.teamPlayers[i].playerClubLogo === ""
         ) {
-          clubPic = "/media/CLUBS/unknown.svg";
+          clubPic = "../../media/CLUBS/unknown.svg";
         } else {
-          clubPic = `/${mainData.teamPlayers[i].playerClubLogo}`;
+          clubPic = `../../${mainData.teamPlayers[i].playerClubLogo}`;
         }
         //
         let statsAll = mainData.teamPlayers[i].playerStats;
@@ -219,9 +219,9 @@ langBtn.addEventListener("click", function () {
           !mainData.teamPlayers[i].playerImg ||
           mainData.teamPlayers[i].playerImg === ""
         ) {
-          playerPic = "/media/PLAYERS/unknown.svg";
+          playerPic = "../../media/PLAYERS/unknown.svg";
         } else {
-          playerPic = `/${mainData.teamPlayers[i].playerImg}`;
+          playerPic = `../../${mainData.teamPlayers[i].playerImg}`;
         }
         //
         let clubPic;
@@ -229,9 +229,9 @@ langBtn.addEventListener("click", function () {
           !mainData.teamPlayers[i].playerClubLogo ||
           mainData.teamPlayers[i].playerClubLogo === ""
         ) {
-          clubPic = "/media/CLUBS/unknown.svg";
+          clubPic = "../../media/CLUBS/unknown.svg";
         } else {
-          clubPic = `/${mainData.teamPlayers[i].playerClubLogo}`;
+          clubPic = `../../${mainData.teamPlayers[i].playerClubLogo}`;
         }
         //
         let statsAll = mainData.teamPlayers[i].playerStats;

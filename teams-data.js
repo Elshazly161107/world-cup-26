@@ -18826,32 +18826,6 @@ let teamsData = [
         playerClubNameAR: "الأهلي المصري",
         playerClubName: "Al Ahly SC",
         playerClubLogo: "",
-        playerStats: [
-          {
-            vs: "uruguay",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-          {
-            vs: "spain",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-          {
-            vs: "cabo verde",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-        ],
         playerImg: "",
         playerStats: [
           {
@@ -18891,32 +18865,6 @@ let teamsData = [
         playerClubNameAR: "",
         playerClubName: "Zamalek SC",
         playerClubLogo: "",
-        playerStats: [
-          {
-            vs: "uruguay",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-          {
-            vs: "spain",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-          {
-            vs: "cabo verde",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-        ],
         playerImg: "",
         playerStats: [
           {
@@ -18959,32 +18907,6 @@ let teamsData = [
         playerClubNameAR: "",
         playerClubName: "OGC Nice",
         playerClubLogo: "",
-        playerStats: [
-          {
-            vs: "uruguay",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-          {
-            vs: "spain",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-          {
-            vs: "cabo verde",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-        ],
         playerImg: "",
         playerStats: [
           {
@@ -19024,32 +18946,6 @@ let teamsData = [
         playerClubNameAR: "",
         playerClubName: "Neom SC",
         playerClubLogo: "",
-        playerStats: [
-          {
-            vs: "uruguay",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-          {
-            vs: "spain",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-          {
-            vs: "cabo verde",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-        ],
         playerImg: "",
         playerStats: [
           {
@@ -19206,32 +19102,6 @@ let teamsData = [
         playerClubNameAR: "الأهلي المصري",
         playerClubName: "Al Ahly SC",
         playerClubLogo: "",
-        playerStats: [
-          {
-            vs: "uruguay",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-          {
-            vs: "spain",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-          {
-            vs: "cabo verde",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-        ],
         playerImg: "",
         playerStats: [
           {
@@ -19271,32 +19141,6 @@ let teamsData = [
         playerClubNameAR: "",
         playerClubName: "Ceramica Cleopatra",
         playerClubLogo: "",
-        playerStats: [
-          {
-            vs: "uruguay",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-          {
-            vs: "spain",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-          {
-            vs: "cabo verde",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-        ],
         playerImg: "",
         playerStats: [
           {
@@ -19534,32 +19378,6 @@ let teamsData = [
         playerClubNameAR: "",
         playerClubName: "Zamalek SC",
         playerClubLogo: "",
-        playerStats: [
-          {
-            vs: "uruguay",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-          {
-            vs: "spain",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-          {
-            vs: "cabo verde",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-        ],
         playerImg: "",
         playerStats: [
           {
@@ -19641,32 +19459,6 @@ let teamsData = [
         playerClubNameAR: "",
         playerClubName: "FC Nantes",
         playerClubLogo: "",
-        playerStats: [
-          {
-            vs: "uruguay",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-          {
-            vs: "spain",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-          {
-            vs: "cabo verde",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-        ],
         playerImg: "",
         playerStats: [
           {
@@ -19745,32 +19537,6 @@ let teamsData = [
         playerClubNameAR: "",
         playerClubName: "Getafe",
         playerClubLogo: "",
-        playerStats: [
-          {
-            vs: "uruguay",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-          {
-            vs: "spain",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-          {
-            vs: "cabo verde",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-        ],
         playerImg: "",
         playerStats: [
           {
@@ -19810,32 +19576,6 @@ let teamsData = [
         playerClubNameAR: "",
         playerClubName: "Al-Khaleej",
         playerClubLogo: "",
-        playerStats: [
-          {
-            vs: "uruguay",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-          {
-            vs: "spain",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-          {
-            vs: "cabo verde",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-        ],
         playerImg: "",
         playerStats: [
           {
@@ -19875,32 +19615,6 @@ let teamsData = [
         playerClubNameAR: "",
         playerClubName: "National Bank of Egypt",
         playerClubLogo: "",
-        playerStats: [
-          {
-            vs: "uruguay",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-          {
-            vs: "spain",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-          {
-            vs: "cabo verde",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-        ],
         playerImg: "",
         playerStats: [
           {
@@ -19940,32 +19654,6 @@ let teamsData = [
         playerClubNameAR: "",
         playerClubName: "Pyramids FC",
         playerClubLogo: "",
-        playerStats: [
-          {
-            vs: "uruguay",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-          {
-            vs: "spain",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-          {
-            vs: "cabo verde",
-            mp: 0,
-            g: 0,
-            a: 0,
-            yc: 0,
-            rc: 0,
-          },
-        ],
         playerImg: "",
         playerStats: [
           {

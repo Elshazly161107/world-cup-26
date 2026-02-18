@@ -118,9 +118,9 @@ for (let i = 0; i < mainData.teamPlayers.length; i++) {
     !mainData.teamPlayers[i].playerImg ||
     mainData.teamPlayers[i].playerImg === ""
   ) {
-    playerPic = "/media/PLAYERS/unknown.svg";
+    playerPic = "../../media/PLAYERS/unknown.svg";
   } else {
-    playerPic = `/${mainData.teamPlayers[i].playerImg}`;
+    playerPic = `../../${mainData.teamPlayers[i].playerImg}`;
   }
   //
   let clubPic;
@@ -128,9 +128,9 @@ for (let i = 0; i < mainData.teamPlayers.length; i++) {
     !mainData.teamPlayers[i].playerClubLogo ||
     mainData.teamPlayers[i].playerClubLogo === ""
   ) {
-    clubPic = "/media/CLUBS/unknown.svg";
+    clubPic = "../../media/CLUBS/unknown.svg";
   } else {
-    clubPic = `/${mainData.teamPlayers[i].playerClubLogo}`;
+    clubPic = `../../${mainData.teamPlayers[i].playerClubLogo}`;
   }
   //
   let statsAll = mainData.teamPlayers[i].playerStats;
